@@ -1,0 +1,15 @@
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+821025261337,,2021-07-13 07:38:11.167,2021-07-13 07:38:11.177,,phone_number,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000021,
+C,,2021-07-13 07:38:52.000,2021-07-13 07:38:52.000,,temperature_unit,,,Cw0AA/XVc1,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000d,
+mmHg,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_pressure_unit,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000013,
+19580619,,2021-07-13 07:38:11.601,2021-07-13 07:38:11.603,,birth_date,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+ml,,2021-07-13 07:38:52.000,2021-07-13 07:38:52.000,,water_unit,,,Cw0AA/XVc1,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000014,
+kg,,2021-07-13 07:38:52.000,2021-07-13 07:38:52.000,,weight_unit,,,Cw0AA/XVc1,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000007,
+KOR,,2021-07-25 03:47:24.348,2021-07-25 03:47:24.351,,country,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+cm,,2021-07-13 07:38:52.000,2021-07-13 07:38:52.000,,height_unit,,,Cw0AA/XVc1,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000009,
+mg/dL,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_glucose_unit,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000e,
+km,,2021-07-13 07:38:52.000,2021-07-13 07:38:52.000,,distance_unit,,,Cw0AA/XVc1,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000c,
+%,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,hba1c_unit,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000012,
+,,2021-07-31 00:55:15.891,2021-07-13 07:38:45.664,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
+,80.2,2021-07-14 10:20:11.881,2021-07-14 10:20:12.771,,weight,,,TKIQsULl+e,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000006,

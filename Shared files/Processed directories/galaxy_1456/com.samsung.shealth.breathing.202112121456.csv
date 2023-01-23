@@ -1,0 +1,8 @@
+com.samsung.shealth.breathing,6200039,1
+duration,start_time,custom,update_time,create_time,cycle,time_offset,deviceuuid,pkg_name,end_time,datauuid
+60,2021-07-13 08:53:05.000,,2021-07-13 08:53:05.000,2021-07-13 08:53:05.000,6,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-07-13 08:53:05.000,ca6bfa0c-89fa-ba76-e517-da41196661ac,
+40,2021-07-15 08:33:33.000,,2021-07-15 08:33:33.000,2021-07-15 08:33:33.000,4,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-07-15 08:33:33.000,b5a21761-b8dc-bd15-37d3-f5bdcb6c6df4,
+60,2021-07-18 07:27:09.000,,2021-07-18 07:27:09.000,2021-07-18 07:27:09.000,6,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-07-18 07:27:09.000,d443de33-090a-5b88-b690-afb38d33006b,
+0,2021-07-18 07:27:34.000,,2021-07-18 07:27:34.000,2021-07-18 07:27:34.000,0,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-07-18 07:27:34.000,44bd6093-624b-7226-d1e4-903ff6caf66b,
+30,2021-07-31 10:00:34.000,,2021-07-31 10:00:34.000,2021-07-31 10:00:34.000,3,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-07-31 10:00:34.000,2bfc2582-a625-9dc6-55ad-d65bee1c42f6,
+60,2021-08-29 22:19:30.000,,2021-08-29 22:19:30.000,2021-08-29 22:19:30.000,6,UTC+0000,ULvLH/6rWJ,com.sec.android.app.shealth,2021-08-29 22:19:30.000,d566f9a8-b04e-50b5-fd43-0bdc62d719bb,

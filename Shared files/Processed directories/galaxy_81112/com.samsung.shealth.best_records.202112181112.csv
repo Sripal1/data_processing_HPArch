@@ -1,0 +1,13 @@
+com.samsung.shealth.best_records,6195017,1
+source_id,device_type,update_time,create_time,source_pkg_name,date,type,value,extra_type,deviceuuid,pkg_name,controller_id,datauuid
+,-100003,2021-07-13 16:08:02.720,2021-07-13 16:08:02.720,,1626134400000,0,1300.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,336d622e-3522-46d1-a939-9ef4d5a0a74f,
+,-100003,2021-10-06 11:53:35.241,2021-10-06 11:53:35.241,,1632787200000,0,12179.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,e64e7266-bfa9-4caf-a0c6-79a0611297a6,
+,-100003,2021-07-14 15:00:01.138,2021-07-14 15:00:01.138,,1626220800000,0,8294.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,fa55f91e-00c2-48b8-b73e-dd9fd80d689e,
+496cb951-fa28-192a-16f4-074f8688fa8b,-1,2021-10-25 17:37:51.012,2021-10-10 21:12:44.556,,1626625024000,1,2000.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.sport_walking,3dc2c528-42bf-4113-9372-b353035dff2f,
+,-100003,2021-08-26 15:54:59.260,2021-08-26 15:54:59.260,,1629936000000,0,8737.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,53f8242b-fdb8-40ee-a516-553e059938d6,
+5c1a8dc1-3475-9b9d-0523-513e2364bb28,-1,2021-10-25 17:37:51.066,2021-10-10 21:12:44.631,,1630756524000,2,77.169106,0,LIGCfGG+ec,com.sec.android.app.shealth,tracker.sport_others,aca7c744-8044-4a90-82fa-a484972c23aa,
+,-100003,2021-07-23 15:11:24.782,2021-07-23 15:11:24.782,,1626998400000,0,8393.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,ad2683f3-5baf-4c9a-bdb0-5122cdbbe50f,
+,-100003,2021-09-14 18:22:50.262,2021-09-14 18:22:50.262,,1631577600000,0,11210.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,0d21a1d9-181c-46aa-83f5-fa5aef932c21,
+,-100003,2021-09-10 15:00:00.876,2021-09-10 15:00:00.876,,1631232000000,0,9378.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,51ec1400-3792-4740-ab59-43ebecf9498d,
+,-100003,2021-10-12 16:16:59.541,2021-10-12 16:16:59.541,,1633996800000,0,12545.0,-1,LIGCfGG+ec,com.sec.android.app.shealth,tracker.pedometer,b29d49da-beb0-4f70-a3cc-744d983bec61,
+5c1a8dc1-3475-9b9d-0523-513e2364bb28,-1,2021-10-25 17:37:51.066,2021-10-10 21:12:44.594,,1630756524000,1,1164000.0,0,LIGCfGG+ec,com.sec.android.app.shealth,tracker.sport_others,5ae5ae1d-c7f4-4efa-95f6-a214e1a944c4,

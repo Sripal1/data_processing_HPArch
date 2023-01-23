@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6201005,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+all_target,,,,,,0,2021-08-24 11:28:12.872,2021-08-24 11:28:12.872,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,성재의 Note10+,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,360001,2021-08-24 11:26:44.307,2021-08-24 11:02:15.992,My Device,SM-N976N,,Hx51+uDVw3,com.sec.android.app.shealth,성재의 Note10+,af701aae-7c88-6fc0-bb70-c646210593db,
+Combined,,,,,,0,2021-08-24 11:28:12.484,2021-08-24 11:28:12.484,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,성재의 Note10+,7af9722c-cd99-07b7-853a-43ce58e819c5,
+Samsung Electronics,1,25,10051,1,fcf3d057-4c4a-a5df-78ce-a1c6a9b7f11f.capability.json,360003,2021-10-26 01:11:12.613,2021-08-24 11:06:58.030,Galaxy Fit2,,,/77eTAHyDe,com.sec.android.app.shealth,Galaxy Note10+ 5G,fcf3d057-4c4a-a5df-78ce-a1c6a9b7f11f,

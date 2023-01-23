@@ -1,0 +1,7 @@
+com.samsung.shealth.stress,6196009,7
+start_time,custom,binning_data,tag_id,update_time,create_time,max,min,score,algorithm,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+2017-04-02 08:45:48.131,b1f04b9e-e30a-43c2-8dcf-18e3be00235e.custom.json,,10002,2017-04-02 08:46:06.969,2017-04-02 08:46:06.969,,,48.681213,,UTC+0900,poYXze4wAV,,com.sec.android.app.shealth,,b1f04b9e-e30a-43c2-8dcf-18e3be00235e,
+2017-03-19 04:46:33.716,f887cec5-9ace-47af-8a0e-ae298d0a6dc4.custom.json,,10002,2017-03-19 04:46:45.166,2017-03-19 04:46:45.166,,,58.397823,,UTC+0900,poYXze4wAV,,com.sec.android.app.shealth,,f887cec5-9ace-47af-8a0e-ae298d0a6dc4,
+2021-07-05 01:39:55.000,,,10000,2021-07-05 01:39:55.000,2021-07-05 01:39:55.000,100.0,0.0,100.0,1,UTC+0900,KmBeZnzV9y,,com.sec.android.app.shealth,2021-07-05 01:39:55.000,e98116d9-5c0a-72e6-7a48-a1d5a908ff29,
+2017-06-04 09:13:47.072,d2c3b924-dca4-4903-8541-20b78fd33a34.custom.json,,10002,2017-06-04 09:14:04.632,2017-06-04 09:14:04.632,,,53.549965,,UTC+0900,poYXze4wAV,,com.sec.android.app.shealth,,d2c3b924-dca4-4903-8541-20b78fd33a34,
+2017-04-14 06:14:43.087,b3d1b8dd-c78d-4afb-9b21-2e23a9ee11f2.custom.json,,10002,2017-04-14 06:15:04.913,2017-04-14 06:15:04.913,,,57.306797,,UTC+0900,poYXze4wAV,,com.sec.android.app.shealth,,b3d1b8dd-c78d-4afb-9b21-2e23a9ee11f2,

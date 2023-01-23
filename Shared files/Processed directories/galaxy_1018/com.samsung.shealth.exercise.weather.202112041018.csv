@@ -1,0 +1,5 @@
+com.samsung.shealth.exercise.weather,6196009,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+,0,2021-07-04 11:11:51.189,36.29994,,북서. 297,대체로 흐림,0,1,WeatherNews_korea,2021-07-04 11:11:51.191,2021-07-04 11:11:51.191,1,127.5749,23.0,81,UTC+0900,tKM9gWo31F,5124984f-597d-4ee2-9275-d3a7b6f3a45a,com.sec.android.app.shealth,km/h,0,1.0,3,e62cd179-fe37-4c7e-b5e3-c610f533fac1,
+,0,2021-09-01 12:35:10.163,36.303467,,남동. 132,대체로 흐림,0,1,WeatherNews_korea,2021-09-01 12:35:10.169,2021-09-01 12:35:10.169,1,127.57439,22.0,90,UTC+0900,tKM9gWo31F,e93ce0e0-e736-422c-8db8-e1ecac08497a,com.sec.android.app.shealth,km/h,0,1.0,3,e664085b-5fea-4271-9680-d741cb8d8e09,
+,0,2021-07-04 11:13:16.353,36.300457,,북서. 297,대체로 흐림,0,1,WeatherNews_korea,2021-07-04 11:13:16.354,2021-07-04 11:13:16.354,1,127.57523,23.0,81,UTC+0900,tKM9gWo31F,32613fcb-a5a9-48ea-9da7-a26c29a08068,com.sec.android.app.shealth,km/h,0,1.0,3,a3310cf9-9669-4124-a583-9a8e5d5aeaad,

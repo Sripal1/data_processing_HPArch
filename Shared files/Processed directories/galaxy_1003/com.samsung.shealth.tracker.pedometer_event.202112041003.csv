@@ -1,0 +1,5 @@
+com.samsung.shealth.tracker.pedometer_event,6170019,1
+start_time,update_time,create_time,type,time_offset,deviceuuid,pkg_name,healthy_step,end_time,datauuid
+2021-11-07 05:27:14.000,2021-11-07 05:48:22.000,2021-11-07 05:48:22.000,1,UTC+0900,tpJmGFksb1,com.sec.android.app.shealth,1636,2021-11-07 05:48:22.000,0ad2d334-cfa7-00ce-2ae4-0f6774c09e9b,
+2021-11-07 06:18:57.000,2021-11-07 06:42:13.000,2021-11-07 06:42:13.000,1,UTC+0900,tpJmGFksb1,com.sec.android.app.shealth,1623,2021-11-07 06:42:13.000,39bbbb09-5afc-cd02-3885-1d244f20d468,
+2021-11-29 09:53:53.000,2021-11-29 10:06:22.000,2021-11-29 10:06:22.000,1,UTC+0900,tpJmGFksb1,com.sec.android.app.shealth,924,2021-11-29 10:06:22.000,9be1d6ea-d9f9-b4dc-cfe3-c8e2b1ae3343,

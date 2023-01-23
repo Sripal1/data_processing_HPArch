@@ -1,0 +1,3 @@
+com.samsung.shealth.exercise.program_summary,6170019,2
+start_time,custom,missed_workouts,completion_status,total_workouts,total_distance,update_time,create_time,max_speed,program_id,completion_percentage,time_offset,deviceuuid,pkg_name,total_duration,end_time,program_info_id,datauuid,completed_workouts,incomplete_workouts
+2021-11-27 19:00:00.000,a254e5f4-2629-4455-9dc5-bca138f72c59.custom.json,2,30,2,0.0,2021-11-30 15:00:35.634,2021-11-30 15:00:35.634,0.0,051ac044-c573-4342-a151-7c99e57a8462,0,UTC+0900,V57RQzDK0T,com.sec.android.app.shealth,0,2021-11-29 19:00:00.000,program.prod32,a254e5f4-2629-4455-9dc5-bca138f72c59,0,0,

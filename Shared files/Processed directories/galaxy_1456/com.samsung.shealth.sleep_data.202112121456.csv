@@ -1,0 +1,4 @@
+com.samsung.shealth.sleep_data,6200039,4
+start_time,update_time,create_time,sleep_uuid,sleep_status,time_offset,deviceuuid,comment,pkg_name,json_version,datauuid
+2021-11-12 05:52:54.000,2021-11-12 07:06:16.000,2021-11-12 07:14:43.496,00000000-0000-0000-0000-00000fd00739,5285294c-f136-40b6-fb54-c18ccdd6ab86.sleep_status.json,UTC+0900,ULvLH/6rWJ,,com.sec.android.app.shealth,0,5285294c-f136-40b6-fb54-c18ccdd6ab86,
+2021-10-16 09:04:25.000,2021-10-16 10:40:33.000,2021-10-16 12:48:01.859,00000000-0000-0000-0000-000032048a4b,43233cd5-eb07-c939-b7f8-4b85ef74a44d.sleep_status.json,UTC+0900,ULvLH/6rWJ,,com.sec.android.app.shealth,0,43233cd5-eb07-c939-b7f8-4b85ef74a44d,

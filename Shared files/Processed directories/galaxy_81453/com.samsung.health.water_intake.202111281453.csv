@@ -1,0 +1,8 @@
+com.samsung.health.water_intake,6170019,5
+start_time,amount,custom,update_time,create_time,time_offset,deviceuuid,unit_amount,comment,pkg_name,datauuid
+2021-07-07 09:57:51.101,250.0,,2021-07-07 09:57:51.112,2021-07-07 09:57:51.112,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,2bfee32c-7ac8-4bec-afbf-822f091265da,
+2021-07-08 11:42:51.620,250.0,,2021-07-08 11:42:51.629,2021-07-08 11:42:51.629,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,af9908b9-2871-4c96-a193-b5b9279ef07c,
+2021-07-07 09:57:53.128,250.0,,2021-07-07 09:57:53.142,2021-07-07 09:57:53.142,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,5053c788-40e0-46e2-9274-149130ade10a,
+2021-07-08 11:42:52.385,250.0,,2021-07-08 11:42:52.394,2021-07-08 11:42:52.394,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,6d7a6f75-b09b-4791-a158-dd47e280a981,
+2021-07-14 05:41:40.315,250.0,,2021-07-14 05:41:40.325,2021-07-14 05:41:40.325,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,34b9b50b-00cd-4311-b494-90a940a4b865,
+2021-07-14 05:41:41.673,250.0,,2021-07-14 05:41:41.686,2021-07-14 05:41:41.686,UTC+0900,V57RQzDK0T,250.0,,com.sec.android.app.shealth,4e96c839-ed02-4fca-8862-a6d3fb512b48,

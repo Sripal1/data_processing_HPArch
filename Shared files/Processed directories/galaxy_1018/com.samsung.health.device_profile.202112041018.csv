@@ -1,0 +1,7 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-07-03 04:50:24.940,2021-07-03 04:50:24.940,My Device,SM-N960N,,tKM9gWo31F,com.sec.android.app.shealth,연옥의 Galaxy Note9,3ad5a11b-cb00-87c3-97aa-197b4cf27024,
+Combined,,,,,,0,2021-07-03 05:00:46.437,2021-07-03 05:00:46.437,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Galaxy Note9,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-03 05:00:48.381,2021-07-03 05:00:48.381,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy Note9,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+i-SENS,,,,,,360002,2021-07-03 05:44:24.100,2021-07-03 05:44:24.100,CareSens 3964,CareSens N Premier BLE,,4xPXnZThn3,com.sec.android.app.shealth,연옥의 Galaxy Note9,5e3dae64-0c13-8d18-2cb4-249d15f09008,
+Samsung Electronics,1,25,10051,1,43bb5c1c-4d9d-fb7f-aa2c-5d8cf3355934.capability.json,360003,2021-09-30 21:16:21.629,2021-07-03 05:45:46.568,Galaxy Fit2,,,hmQws4UQ7U,com.sec.android.app.shealth,연옥의 Galaxy Note9,43bb5c1c-4d9d-fb7f-aa2c-5d8cf3355934,

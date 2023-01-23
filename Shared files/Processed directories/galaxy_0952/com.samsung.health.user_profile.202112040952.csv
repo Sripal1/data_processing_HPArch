@@ -1,0 +1,16 @@
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+19570806,,2021-07-31 04:42:09.859,2021-07-31 04:42:09.862,,birth_date,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+km,,2021-08-02 04:37:33.000,2021-07-31 04:42:23.000,,distance_unit,,,6IWymrwdIX,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000c,
+%,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,hba1c_unit,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000012,
+KOR,,2021-07-31 04:42:11.474,2021-07-31 04:42:11.478,,country,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+C,,2021-08-02 04:37:33.000,2021-07-31 04:42:23.000,,temperature_unit,,,6IWymrwdIX,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000d,
+mmHg,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_pressure_unit,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000013,
+821054098463,,2021-07-31 04:42:18.623,2021-07-31 04:42:18.631,,phone_number,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000021,
+ml,,2021-08-02 04:37:33.000,2021-07-31 04:42:23.000,,water_unit,,,6IWymrwdIX,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000014,
+69536328,,2021-07-31 04:42:20.459,2021-07-31 04:42:20.464,,social_id,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000015,
+kg,,2021-08-02 04:37:33.000,2021-07-31 04:42:23.000,,weight_unit,,,6IWymrwdIX,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000007,
+cm,,2021-08-02 04:37:33.000,2021-07-31 04:42:23.000,,height_unit,,,6IWymrwdIX,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000009,
+mg/dL,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_glucose_unit,,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000e,
+,,2021-11-06 02:08:17.485,2021-08-01 05:51:50.288,,iconx_step_calibration,00000000-0000-0000-0000-00000000001e.iconx_step_calibration.json,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001e,
+,,2021-10-10 06:57:56.093,2021-07-31 04:48:22.138,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,yRTf/ExtON,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,

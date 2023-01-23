@@ -1,0 +1,12 @@
+eveningsnack_count,start_date,start_time,create_time,morningsnack_count,dinner_count,breakfast_count,deviceuuid,pkg_name,afternoonsnack_count,datauuid,food_info_id,lunch_count
+0.99,2021-07-03 ,02:08:26.687,2021-07-03 02:08:26.687,0.99,0.99,0.99,OvMFo+Qpk+,com.sec.android.app.shealth,0.99,0732baa3-dccb-42a5-be2e-67127291b1fc,0c104035-d3b3-43a8-9719-e5e1804fe7dd,0.99
+0.95,2021-07-03 ,02:08:26.688,2021-07-03 02:08:26.688,0.95,0.95,0.95,OvMFo+Qpk+,com.sec.android.app.shealth,0.95,bb1f40a8-d3dc-4b2c-bd87-33deddf47469,9561ed89-c5f2-432f-aa8e-57f33a911d48,0.95
+0.91,2021-07-03 ,02:08:26.689,2021-07-03 02:08:26.689,0.91,0.91,0.91,OvMFo+Qpk+,com.sec.android.app.shealth,0.91,68207aec-8639-47b0-9528-8c8e79e4e291,b8e56948-2484-4364-bc6a-f19a9774165b,0.91
+0.87,2021-07-03 ,02:08:26.690,2021-07-03 02:08:26.690,0.87,0.87,0.87,OvMFo+Qpk+,com.sec.android.app.shealth,0.87,048ef108-a9a9-4074-b3c6-ceb1ba747df6,bf0cbc46-7443-4ea4-97d5-303b871c1882,0.87
+0.83,2021-07-03 ,02:08:26.691,2021-07-03 02:08:26.691,0.83,0.83,0.83,OvMFo+Qpk+,com.sec.android.app.shealth,0.83,84d07d2a-123e-4d4f-9200-9ad4cad52b8b,f0b0392a-5ec6-4c43-adb4-4a25893b70d1,0.83
+0.79,2021-07-03 ,02:08:26.692,2021-07-03 02:08:26.692,0.79,0.79,0.79,OvMFo+Qpk+,com.sec.android.app.shealth,0.79,ce0e5a63-9af7-485d-a062-e04d0e5ddd8e,fcf2a6bf-d8b2-4f41-a53f-30fde08f7198,0.79
+0.75,2021-07-03 ,02:08:26.693,2021-07-03 02:08:26.693,0.75,0.75,0.75,OvMFo+Qpk+,com.sec.android.app.shealth,0.75,0fa7799a-5990-4964-ad71-65aa1387a9f7,58986c4b-4cb7-441d-8424-62e10e3980f0,0.75
+0.71,2021-07-03 ,02:08:26.695,2021-07-03 02:08:26.695,0.71,0.71,0.71,OvMFo+Qpk+,com.sec.android.app.shealth,0.71,327d908f-c0f4-4d7d-acb0-97274674eb55,25b36ce8-ab6b-45a0-a6d6-0553b15c91ee,0.71
+0.67,2021-07-03 ,02:08:26.695,2021-07-03 02:08:26.695,0.67,0.67,0.67,OvMFo+Qpk+,com.sec.android.app.shealth,0.67,bccff341-85f4-4278-a3bd-e360c27b11d1,db1cc3d0-0314-4155-b58f-e412d29cf25a,0.67
+0.63,2021-07-03 ,02:08:26.695,2021-07-03 02:08:26.695,0.63,0.63,0.63,OvMFo+Qpk+,com.sec.android.app.shealth,0.63,9ab30948-ff97-4dc4-80bc-b4da028106da,9d9c6f10-57af-49f5-abb5-8d4a559b0ace,0.63
+0.0,2021-07-13 ,02:54:23.534,2021-07-13 02:54:23.534,0.0,0.0,1.0,OvMFo+Qpk+,com.sec.android.app.shealth,0.0,c0a5096b-e83d-4cc8-810e-f2028247b83b,f6642a9d-92a9-447a-9994-cc79e47b551f,0.0

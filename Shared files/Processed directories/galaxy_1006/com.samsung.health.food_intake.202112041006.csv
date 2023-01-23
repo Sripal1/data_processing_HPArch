@@ -1,0 +1,4 @@
+com.samsung.health.food_intake,6196009,4
+start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
+2021-07-13 03:00:00.000,1.0,,2021-07-13 07:55:14.721,2021-07-13 07:55:14.721,100002,짜장면,120001,785.0,UTC+0900,TKIQsULl+e,,com.sec.android.app.shealth,5a17377f-d7ef-47d5-a40d-6ca6524e52f0,328943a2-1f19-49e1-b0cb-def2516c56d5,
+2021-07-12 23:00:00.000,1.0,,2021-07-13 07:55:56.038,2021-07-13 07:55:56.038,100001,바나나,120001,105.0,UTC+0900,TKIQsULl+e,,com.sec.android.app.shealth,13fe441c-4495-4522-a5bb-9194ba162423,ecfba612-c886-4ffd-b199-921dbddd9c90,

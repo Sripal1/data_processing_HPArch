@@ -1,0 +1,5 @@
+com.samsung.shealth.exercise.program_schedule,6170019,3
+duration,planned_date,state_update_time,week_info_id,custom,pace_info_id,day_info_id,update_time,create_time,state_updated_by,program_id,state,distance,deviceuuid,pkg_name,tracker_id,workout_day,program_info_id,datauuid
+0,2021-11-28 19:00:00.000,2021-11-28 06:42:15.443,,12411c90-0081-4a82-9dea-296b09d51b51.custom.json,0,,2021-11-28 06:42:15.664,2021-11-28 06:42:15.664,200,051ac044-c573-4342-a151-7c99e57a8462,500,0.0,V57RQzDK0T,com.sec.android.app.shealth,,0,program.prod32,12411c90-0081-4a82-9dea-296b09d51b51,
+0,2021-11-27 19:00:00.000,2021-11-28 06:42:15.442,,1facd2c6-a39d-406e-a287-1bf48fdba86d.custom.json,0,,2021-11-28 06:42:15.660,2021-11-28 06:42:15.660,200,051ac044-c573-4342-a151-7c99e57a8462,0,0.0,V57RQzDK0T,com.sec.android.app.shealth,,1,program.prod32,1facd2c6-a39d-406e-a287-1bf48fdba86d,
+0,2021-11-29 19:00:00.000,2021-11-28 06:42:15.443,,313dfe53-c0b9-4a3c-a389-32ae90a31313.custom.json,0,,2021-11-28 06:42:15.666,2021-11-28 06:42:15.666,200,051ac044-c573-4342-a151-7c99e57a8462,0,0.0,V57RQzDK0T,com.sec.android.app.shealth,,1,program.prod32,313dfe53-c0b9-4a3c-a389-32ae90a31313,

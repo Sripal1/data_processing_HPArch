@@ -1,0 +1,12 @@
+com.samsung.shealth.library_subscription,6200039,1
+subscription_state,update_time,create_time,tile_controller_id,type,deviceuuid,pkg_name,datauuid,provider_pkg_name
+1,2015-12-15 17:41:37.558,2015-12-15 17:41:37.558,tracker.spo2,0,wakAfCXJCw,com.sec.android.app.shealth,5a1ff8d9-dd14-4b3c-88df-ba4cf2f4af82,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.827,2015-10-09 09:36:23.827,tracker.heartrate,0,wakAfCXJCw,com.sec.android.app.shealth,6cd6a3d2-c0af-43c2-a08d-5d71bcec415a,com.sec.android.app.shealth,
+1,2015-12-15 17:41:37.851,2015-12-15 17:41:37.851,tracker.stress,0,wakAfCXJCw,com.sec.android.app.shealth,8b6dfba5-f130-4259-8f2e-3da290f3f0d4,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.860,2015-10-09 09:36:23.860,tracker.caffeine,0,wakAfCXJCw,com.sec.android.app.shealth,eba00a6b-e1aa-4063-9a36-9fada162dc76,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.933,2015-10-09 09:36:23.933,tracker.bloodpressure,0,wakAfCXJCw,com.sec.android.app.shealth,50997f1d-267f-4c0d-bb3f-bbc00bca952c,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.911,2015-10-09 09:36:23.911,tracker.water,0,wakAfCXJCw,com.sec.android.app.shealth,84bdf907-18ea-47ec-a34d-5092626e38cc,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.883,2015-10-09 09:36:23.883,tracker.weight,0,wakAfCXJCw,com.sec.android.app.shealth,dd14c8bd-7a36-4ed1-a0f1-fa53d39aa5eb,com.sec.android.app.shealth,
+1,2015-10-09 09:36:50.562,2015-10-09 09:36:50.562,program.sport_couch_to_5k_pa_v010,2,wakAfCXJCw,com.sec.android.app.shealth,f4e11ccb-4128-498a-b974-689af3bb55fc,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.746,2015-10-09 09:36:23.746,tracker.sleep,0,wakAfCXJCw,com.sec.android.app.shealth,bf847888-f909-4106-8507-f8aa3f4835c1,com.sec.android.app.shealth,
+1,2015-10-09 09:36:23.780,2015-10-09 09:36:23.780,tracker.bloodglucose,0,wakAfCXJCw,com.sec.android.app.shealth,7f0f43c8-a711-4fd9-a4a5-5af1a2b6ab02,com.sec.android.app.shealth,

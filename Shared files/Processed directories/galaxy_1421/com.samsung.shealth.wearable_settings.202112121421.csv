@@ -1,0 +1,4 @@
+com.samsung.shealth.wearable_settings,6196009,1
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2021-11-18 09:39:05.915,2021-11-18 09:39:05.915,,stress_auto_measure,,1,/77eTAHyDe,com.sec.android.app.shealth,,7eaf716e-b68c-4a62-92f4-3d099f9d87e5,
+,,2021-09-03 13:32:22.345,2021-09-03 13:32:22.345,,hrm_elevated_hr,,0,/77eTAHyDe,com.sec.android.app.shealth,,d941b020-8700-49c8-81c7-d6a622918bc3,

@@ -1,0 +1,11 @@
+com.samsung.shealth.wearable_settings,6200039,1
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2021-07-14 03:13:22.874,2021-07-14 03:13:22.874,,hrm_elevated_hr,,0,pD9Mev8fKW,com.sec.android.app.shealth,,ca2556ba-16f4-4bcd-935f-164aa96da147,
+,,2021-07-24 00:33:50.956,2021-07-16 01:16:34.914,,exercise_workout_detection,,1,pD9Mev8fKW,com.sec.android.app.shealth,,13dd9057-42fe-48da-a46f-7fa2f726bd81,
+,,2021-12-06 22:22:41.560,2021-12-06 22:22:41.560,,exercise_always_on,,1,pD9Mev8fKW,com.sec.android.app.shealth,,59685f49-40c2-469f-9235-d3d01d3af470,
+,,2021-07-24 00:14:06.816,2021-07-24 00:00:46.030,,workout_auto_location,,1,pD9Mev8fKW,com.sec.android.app.shealth,,e85909f2-6e55-4908-9034-16bb17506e76,
+,,2021-07-24 00:01:47.452,2021-07-24 00:01:36.034,,workout_healthy_pace,,0,pD9Mev8fKW,com.sec.android.app.shealth,,2bd7dfaa-0523-4177-9d76-34980bbe972b,
+,,2021-07-24 00:02:50.517,2021-07-24 00:00:55.012,,workout_rowing_machine,,0,pD9Mev8fKW,com.sec.android.app.shealth,,42f31a93-c9ea-4fc3-9b59-02bb3a26ac88,
+,,2021-07-24 00:14:09.383,2021-07-24 00:00:40.070,,workout_dynamic_workout,,1,pD9Mev8fKW,com.sec.android.app.shealth,,5d47cfbf-bcf2-49ac-a5f7-939685c44bef,
+,,2021-07-24 00:03:16.045,2021-07-24 00:00:51.428,,workout_elliptical_trainer,,0,pD9Mev8fKW,com.sec.android.app.shealth,,8061b957-9347-49af-bb5b-afc6e447fe55,
+,,2021-12-06 22:22:51.176,2021-12-06 22:22:51.176,,stress_auto_measure,,1,pD9Mev8fKW,com.sec.android.app.shealth,,b1ddc6f1-6494-4dd1-8bfe-ae8f56125860,

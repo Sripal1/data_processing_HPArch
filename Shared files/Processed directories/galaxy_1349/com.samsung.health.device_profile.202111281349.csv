@@ -1,0 +1,9 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-09-08 23:34:13.172,2021-09-08 23:34:13.172,My Device,SM-N981N,,weUQcI9iuT,com.sec.android.app.shealth,선희의 Galaxy Note20 5G,cc2fe2df-17cd-33da-3c53-82148e4e68ba,
+Samsung,,,,,,360001,2021-07-03 06:13:19.453,2021-07-03 06:13:19.453,My Device,SM-A516N,,ipBsY8J8JM,com.sec.android.app.shealth,선희의 Galaxy A51 5G,dea26021-1ab2-36e1-5a69-8e9573b955c9,
+Samsung Electronics,1,25,10051,1,9b4c2f96-4692-ba95-ba27-f3e78655dffc.capability.json,360003,2021-09-04 02:39:43.301,2021-09-04 02:39:43.282,Galaxy Fit2,,,LnkIE9Dn9P,com.sec.android.app.shealth,선희의 Galaxy A51 5G,9b4c2f96-4692-ba95-ba27-f3e78655dffc,
+Combined,,,,,,0,2021-07-03 06:13:34.863,2021-07-03 06:13:34.863,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,선희의 Galaxy A51 5G,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-03 06:13:35.485,2021-07-03 06:13:35.485,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,선희의 Galaxy A51 5G,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+,,,,,,360002,2021-07-03 06:14:16.954,2021-07-03 06:14:16.954,CareSens 1687,,,3Ns2sJTbl7,com.sec.android.app.shealth,선희의 Galaxy A51 5G,78b024eb-78e5-0f5a-20ba-c25dacae6eb4,
+Samsung Electronics,1,25,10051,1,d38668c2-ac0d-915b-04db-c96d65c0545f.capability.json,360003,2021-09-12 05:07:19.748,2021-07-03 06:17:08.802,Galaxy Fit2,,,x0oAL2Dkrv,com.sec.android.app.shealth,선희의 Galaxy A51 5G,d38668c2-ac0d-915b-04db-c96d65c0545f,

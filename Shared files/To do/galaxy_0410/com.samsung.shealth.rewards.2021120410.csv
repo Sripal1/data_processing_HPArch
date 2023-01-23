@@ -1,0 +1,261 @@
+com.samsung.shealth.rewards,1144003,4
+is_visible,pkg_name,number_of_streak,time_offset,exercise_type,source_pkg_name,start_time,device_type,program_id,title,deviceuuid,exercise_session_id,controller_id,end_time,extra_data,datauuid,create_time,update_time
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 21564
+}"",b4d1481e-bc0a-482a-8784-bf17e0e541ad,2021. 07. 05. 오후 3:32:24,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 3:32:24,""{
+  "mTarget" : -1,
+  "mValue" : 20772
+}"",0299af28-fcfe-4d41-ad9c-0e9b7d354263,2021. 07. 05. 오후 3:32:24,2021. 07. 05. 오후 3:32:24,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 21926
+}"",4852107c-c792-4dde-b1ec-d361c4c8a8d1,2021. 07. 05. 오후 3:32:26,2021. 07. 20. 오전 9:41:12,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21926
+}"",df00cc13-4981-4bf4-b3e6-fa3d5fcaf569,2021. 07. 05. 오후 3:32:26,2021. 07. 05. 오후 6:17:25,
+1,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 12:00:00,,,goal_activity_reward_goal_achieved,m5awt1XVZi,,goal.activity,2021. 07. 05. 오전 12:00:00,""{
+  "mValue2" : 60,
+  "mValue" : 277,
+  "mIsCompleted" : false
+}"",47e52577-cdad-4aa2-ae6f-94f2eda8ccc3,2021. 07. 05. 오후 3:32:26,2021. 07. 05. 오후 6:17:25,
+1,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 12:00:00,,,goal_activity_reward_most_active_day,m5awt1XVZi,,goal.activity,2021. 07. 05. 오전 12:00:00,""{
+  "mValue2" : 0,
+  "mValue" : 277,
+  "mIsCompleted" : false
+}"",d4cfc0bf-5514-40bb-b418-8e0152dad127,2021. 07. 05. 오후 3:32:26,2021. 07. 05. 오후 6:17:25,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 20877
+}"",52419588-94f7-43c0-8a8f-49ec11d67903,2021. 07. 05. 오후 3:32:27,2021. 07. 05. 오후 3:32:27,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 20772
+}"",ed6c0547-be43-4fe5-90dd-83f97cf21db1,2021. 07. 05. 오후 3:32:27,2021. 07. 05. 오후 3:32:27,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 3:32:28,""{
+  "mTarget" : -1,
+  "mValue" : 20772
+}"",3599c8da-36ec-4fa6-aeef-28625fdf56b4,2021. 07. 05. 오후 3:32:28,2021. 07. 05. 오후 3:32:28,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,2599999,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 12716
+}"",8c610e42-1285-47e7-a1d1-7b22eae9d77c,2021. 07. 05. 오후 3:32:28,2021. 12. 04. 오전 10:14:43,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,2599999,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12716
+}"",315456d0-cac5-4ba0-97af-a5f072dd677e,2021. 07. 05. 오후 3:32:30,2021. 07. 05. 오후 6:17:25,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 6:17:23,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",9cf1fb12-7e98-4562-b63e-09da5e15780a,2021. 07. 05. 오후 6:17:23,2021. 07. 05. 오후 6:17:23,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",bee3ae61-df0d-4182-a608-525d804d9d6c,2021. 07. 05. 오후 6:17:28,2021. 07. 05. 오후 6:17:28,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21851
+}"",21c6411b-e927-4377-8bdb-bef2cb7bc788,2021. 07. 05. 오후 6:17:28,2021. 07. 05. 오후 6:17:28,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 6:17:28,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",e128ee6d-b7a8-43aa-ac75-d63eaec2f716,2021. 07. 05. 오후 6:17:28,2021. 07. 05. 오후 6:17:28,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 9:26:58,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",378b8399-da1d-474f-86a5-f2288994784c,2021. 07. 05. 오후 9:26:58,2021. 07. 05. 오후 9:26:58,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",1fab14d9-c2a5-44c2-82d2-706a37793345,2021. 07. 05. 오후 9:27:03,2021. 07. 05. 오후 9:27:03,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 12:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21851
+}"",b315f44f-b185-45be-966e-f73990f81a13,2021. 07. 05. 오후 9:27:03,2021. 07. 05. 오후 9:27:03,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 9:27:03,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",49a3fe09-f2d8-431c-b211-2e8e49ca3460,2021. 07. 05. 오후 9:27:03,2021. 07. 05. 오후 9:27:03,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오후 9:27:38,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",8558c8f5-6187-45ef-8382-0732a826b89d,2021. 07. 05. 오후 9:27:38,2021. 07. 05. 오후 9:27:38,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",fe00c6f7-e06d-4434-a115-292ed0e488b5,2021. 07. 08. 오전 10:22:00,2021. 07. 08. 오전 10:22:00,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",ee71540e-b17d-4b83-92c8-ac339ab6309a,2021. 07. 10. 오후 9:27:21,2021. 07. 10. 오후 9:27:21,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",91bcb4ff-b9cb-4756-bda1-e22e25506cdc,2021. 07. 11. 오후 3:36:12,2021. 07. 11. 오후 3:36:12,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",ceed0204-b680-4c55-b4c5-0ea834fde005,2021. 07. 11. 오후 3:43:57,2021. 07. 11. 오후 3:43:57,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 05. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 05. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",c4552d46-3ced-4a1f-9573-8099a2aaa9e6,2021. 07. 11. 오후 11:14:04,2021. 07. 11. 오후 11:14:04,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 13. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 13. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 16993
+}"",08422291-e323-4418-90b0-5af6ecc1bbac,2021. 07. 20. 오전 9:41:12,2021. 11. 28. 오후 2:35:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 13. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 13. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 16993
+}"",2f7d704a-f330-41bb-84af-4f3591df46d4,2021. 07. 20. 오전 9:41:12,2021. 12. 04. 오전 10:12:23,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 13. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 13. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 0
+}"",346d7d39-3730-4898-9521-293c9fa962d6,2021. 07. 20. 오전 9:41:13,2021. 07. 20. 오전 9:41:13,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 19. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 19. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 13545
+}"",f7309402-5314-4b49-b000-5648164fd5a5,2021. 07. 24. 오전 10:47:09,2021. 07. 31. 오후 4:05:22,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 19. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 19. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 13545
+}"",9864d190-b88b-47be-b1eb-65d1ba7d038d,2021. 07. 24. 오전 10:47:09,2021. 07. 24. 오전 10:47:09,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 19. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 19. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 13545
+}"",c4723167-f7cd-4816-92bd-31d56b993098,2021. 07. 24. 오전 10:47:18,2021. 12. 04. 오전 10:12:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 13. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 13. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 16993
+}"",8e52543d-2b55-43a1-bc0b-f0e479d03058,2021. 07. 31. 오후 4:05:21,2021. 07. 31. 오후 4:05:21,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 22. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 07. 22. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 25472
+}"",d5931d61-eb78-4192-9a24-ee4f209c10b2,2021. 07. 31. 오후 4:05:22,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 07. 22. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 07. 22. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 25472
+}"",357f7721-cbb1-475b-b50f-7c931a78510e,2021. 07. 31. 오후 4:05:22,2021. 07. 31. 오후 4:05:22,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 18. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 08. 18. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 28257
+}"",157af3e0-4da7-4c56-91d2-b4fe8e489683,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 18. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 08. 18. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",bf3d4d5c-2332-4055-917e-89c12a98fa99,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 18. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 08. 18. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 28257
+}"",f086b1ed-16e6-41d4-ac4a-a1788581cdbd,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 18. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 08. 18. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 25472
+}"",1497dc72-c931-47ad-943d-afe224a13b2d,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 22. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 08. 22. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 13138
+}"",94916491-cd70-4275-9606-6efe25746750,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 08. 22. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 08. 22. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 13138
+}"",0dee9c98-3e34-41b2-bf2f-edf39e79c13d,2021. 09. 04. 오전 10:28:11,2021. 09. 04. 오전 10:28:11,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 06. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 06. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 35476
+}"",89e33d86-b0b3-4d3a-a255-44aa40c578b9,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 06. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 09. 06. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 21564
+}"",868ed19e-1d28-4e98-9c54-c15b12a05266,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 06. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 06. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 35476
+}"",cb4f0b42-74f7-4ed9-865f-6bbc35450df5,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 06. 오전 9:00:00,100003,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 09. 06. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 25472
+}"",349174ab-9ba4-4055-ae65-dc973e34a7c2,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 09. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 09. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7729
+}"",eda88d7f-e24c-4917-83e4-e5073b0cf19f,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 09. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 09. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7729
+}"",632813d0-3d1b-4164-aa72-5296b9a05b8b,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 11. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 11. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 21493
+}"",bf83cc77-1649-4ad0-8fa5-3a897f9a8112,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 11. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 11. 오전 9:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 21493
+}"",b5f51ad5-c319-46f5-ac7f-86147c30f4fe,2021. 09. 20. 오후 3:59:53,2021. 09. 20. 오후 3:59:53,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 14. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 14. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7951
+}"",4eb8e145-b67d-400e-acda-52087e3ec691,2021. 09. 20. 오후 3:59:53,2021. 12. 04. 오전 10:12:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 09. 14. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 09. 14. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7951
+}"",d2f28048-ae82-4475-b4dc-00f3dd5ebb96,2021. 09. 20. 오후 3:59:53,2021. 12. 04. 오전 10:12:33,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 24. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 24. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7881
+}"",6877ea5e-94d3-421b-955e-696a5435bb1e,2021. 11. 28. 오후 2:34:34,2021. 12. 04. 오전 10:22:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 25. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 25. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 20624
+}"",5a0b9e2c-998a-4f4d-8248-07e169495b22,2021. 11. 28. 오후 2:34:34,2021. 12. 04. 오전 10:16:15,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 24. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 24. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7881
+}"",ed05cb59-7237-410f-b46b-6e7125c18408,2021. 11. 28. 오후 2:35:19,2021. 12. 04. 오전 10:22:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 25. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 25. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 20624
+}"",c1327865-68b1-40a3-813a-b0326107c210,2021. 11. 28. 오후 2:35:19,2021. 12. 04. 오전 10:22:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 29. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 29. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 22735
+}"",fb4ed482-1f98-4317-9c12-ecece71dbbaf,2021. 12. 04. 오전 10:12:19,2021. 12. 04. 오전 10:22:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 29. 오전 9:00:00,10009,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 11. 29. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 22735
+}"",70560a67-4afa-433a-a742-7bc0410d8f6d,2021. 12. 04. 오전 10:12:19,2021. 12. 04. 오전 10:12:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 12. 02. 오전 9:00:00,10009,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 12. 02. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 18065
+}"",a491296a-c9c5-49cd-9230-3bc2da110a7c,2021. 12. 04. 오전 10:12:20,2021. 12. 04. 오전 10:22:19,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 29. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 29. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 23612
+}"",6a3fc06d-1613-4e1e-a594-42d6c7996f4e,2021. 12. 04. 오전 10:12:22,2021. 12. 04. 오전 10:22:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 12. 02. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 12. 02. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 20029
+}"",e5b00dd8-05a4-4370-b580-dc8fd3bfc31f,2021. 12. 04. 오전 10:12:23,2021. 12. 04. 오전 10:22:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 12. 03. 오전 9:00:00,100003,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 12. 03. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6941
+}"",ef5f8c34-a41b-4fed-8eee-5c0f09014264,2021. 12. 04. 오전 10:12:33,2021. 12. 04. 오전 10:22:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 29. 오전 9:00:00,2599999,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 11. 29. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 14637
+}"",6b4689dd-96bd-4b57-a7fa-513fe4655ad1,2021. 12. 04. 오전 10:14:42,2021. 12. 04. 오전 10:22:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 11. 29. 오전 9:00:00,2599999,,tracker_pedometer_reward_most_walking_day,m5awt1XVZi,,tracker.pedometer,2021. 11. 29. 오전 9:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 14637
+}"",4074512b-b6c3-4e63-b5dc-3643966e28da,2021. 12. 04. 오전 10:14:42,2021. 12. 04. 오전 10:14:42,
+0,com.sec.android.app.shealth,,32400000,,,2021. 12. 02. 오전 9:00:00,2599999,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 12. 02. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11120
+}"",1795b60b-3441-4b74-8a9d-7d69bdd71e3e,2021. 12. 04. 오전 10:14:43,2021. 12. 04. 오전 10:22:20,
+0,com.sec.android.app.shealth,,32400000,,,2021. 12. 03. 오전 9:00:00,2599999,,tracker_pedometer_reward_target_achieved,m5awt1XVZi,,tracker.pedometer,2021. 12. 03. 오전 12:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6308
+}"",983d97b6-c8bd-46c0-9be6-72f5d62a6580,2021. 12. 04. 오전 10:14:43,2021. 12. 04. 오전 10:22:20,
+

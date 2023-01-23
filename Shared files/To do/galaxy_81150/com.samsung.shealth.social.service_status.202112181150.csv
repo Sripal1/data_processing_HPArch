@@ -1,0 +1,5 @@
+com.samsung.shealth.social.service_status,6200039,1,,,,
+status,update_time,create_time,service_type,deviceuuid,pkg_name,datauuid
+0,04:18.9,04:18.9,1,fLETIHaUF/,com.sec.android.app.shealth,1fdf03f1-df83-4745-a9bc-2340f40e378f
+0,04:18.9,04:18.9,2,fLETIHaUF/,com.sec.android.app.shealth,28dde76f-bccd-4ddf-a822-bc335d7ed821
+100,04:18.9,04:18.9,3,fLETIHaUF/,com.sec.android.app.shealth,72443a7e-37d1-4196-87d6-c1d9e13cab6e

@@ -1,0 +1,7 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-07-08 05:57:32.350,2021-07-08 05:57:32.350,My Device,SM-J730K,,QyB8D3zs1J,com.sec.android.app.shealth,Galaxy J7,c55a5013-8df4-69b8-f007-6be6e0e626c9,
+Combined,,,,,,0,2021-07-08 05:57:49.392,2021-07-08 05:57:49.392,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Galaxy J7,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-08 05:57:51.120,2021-07-08 05:57:51.120,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy J7,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+액세서리,,,,,,360002,2021-07-08 05:59:26.787,2021-07-08 05:59:26.787,CareSens 3952,,,GTZzRtbSXi,com.sec.android.app.shealth,Galaxy J7,8dcd75c0-e627-8ea2-d630-6612db768719,
+Samsung Electronics,1,25,10051,1,da2f9520-b0bf-cea6-bc53-257bfb86d388.capability.json,360003,2021-09-30 06:30:28.846,2021-07-08 05:57:32.442,Galaxy Fit2,,,3IGv5P20p2,com.sec.android.app.shealth,Galaxy J7,da2f9520-b0bf-cea6-bc53-257bfb86d388,

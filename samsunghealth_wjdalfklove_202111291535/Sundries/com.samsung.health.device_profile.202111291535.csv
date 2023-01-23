@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-07-03 02:08:17.881,2021-07-03 02:08:17.881,My Device,SM-N986N,,OvMFo+Qpk+,com.sec.android.app.shealth,정의 Galaxy Note20 Ultra 5G,3290bd3c-5e38-933a-4d15-592cb6c03607,
+Combined,,,,,,0,2021-07-03 02:08:25.990,2021-07-03 02:08:25.990,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,정의 Galaxy Note20 Ultra 5G,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-03 02:08:26.770,2021-07-03 02:08:26.770,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,정의 Galaxy Note20 Ultra 5G,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,25,10051,1,0ebb4e24-61ac-1e09-fa8a-631191331d24.capability.json,360003,2021-09-30 15:21:45.272,2021-07-09 12:43:19.640,Galaxy Fit2,,,Oy6B6yQLXI,com.sec.android.app.shealth,정의 Galaxy Note20 Ultra 5G,0ebb4e24-61ac-1e09-fa8a-631191331d24,

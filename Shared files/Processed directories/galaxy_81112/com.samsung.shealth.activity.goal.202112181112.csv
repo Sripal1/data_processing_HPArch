@@ -1,0 +1,4 @@
+com.samsung.shealth.activity.goal,6195017,1
+update_time,create_time,value,time_offset,deviceuuid,pkg_name,set_time,datauuid
+2021-07-13 08:12:07.982,2021-07-13 08:12:07.982,60,UTC+0900,LIGCfGG+ec,com.sec.android.app.shealth,1626163927975,9ec9ef89-b9ff-4ff8-a311-aa08f3fbe40b,
+2021-07-13 08:12:08.218,2021-07-13 08:12:08.218,60,UTC+0900,LIGCfGG+ec,com.sec.android.app.shealth,1626163928184,382cb780-82ce-439e-9ec2-f1eef38f711d,

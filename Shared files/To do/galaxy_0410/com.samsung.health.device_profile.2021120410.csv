@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,1144003,6
+create_time,capability,update_time,pkg_name,providing_step_goal,step_source_group,device_type,backsync_step_goal,deviceuuid,manufacturer,connectivity_type,datauuid,device_group,model,fixed_name,name
+2021. 07. 03. 오전 11:15:17,,2021. 07. 03. 오전 11:15:17,com.sec.android.app.shealth,,,,,m5awt1XVZi,Apple,,31323332-3766-3962-3830-383361393233,360001,iPhone 6,iPhone 6,My Device,
+2021. 07. 03. 오전 11:15:50,,2021. 07. 03. 오전 11:15:50,com.sec.android.app.shealth,,,,,VfS0qUERdZ,Combined,,37616639-3732-3263-6364-393930376237,0,Combined,,Combined,
+2021. 07. 03. 오전 11:15:56,37363136-3861-3233-6435-633635323331.capability,2021. 07. 03. 오전 11:15:56,com.sec.android.app.shealth,1,25,10051,1,jj7jIQhOji,Samsung Electronics,,37363136-3861-3233-6435-633635323331,360003,SM-R220,,Galaxy Fit2,
+

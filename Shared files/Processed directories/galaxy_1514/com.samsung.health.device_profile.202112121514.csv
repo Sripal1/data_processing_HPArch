@@ -1,0 +1,8 @@
+com.samsung.health.device_profile,6200039,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-07-03 12:57:55.406,2021-07-03 12:57:55.406,My Device,SM-A826S,,AmBxKyNhYC,com.sec.android.app.shealth,경영의 Quantum2,a5c040b7-a580-5343-1ba9-ad120d5cbe4a,
+Combined,,,,,,0,2021-07-03 12:57:55.429,2021-07-03 12:57:55.429,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,경영의 Quantum2,7af9722c-cd99-07b7-853a-43ce58e819c5,
+Samsung,,,,,,360001,2015-05-25 09:14:11.356,2015-05-25 09:14:11.356,My Device,SM-G920S,,wakAfCXJCw,com.sec.android.app.shealth,Galaxy S6,fac64111-4edb-1dcc-6e82-354e2e4dba07,
+all_target,,,,,,0,2016-10-27 04:16:30.446,2016-10-27 04:16:30.446,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy S6,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,360001,2019-10-01 19:56:12.395,2019-10-01 19:56:12.395,My Device,SM-G920S,,xfhdjU2RR4,com.sec.android.app.shealth,Galaxy S6,5591dbe0-0ebe-dfe3-842c-67174424eeea,
+Samsung Electronics,1,25,10051,1,63989de5-6a22-9847-40b4-b88b67f9cba2.capability.json,360003,2021-09-30 00:39:16.464,2021-07-13 08:10:19.765,Galaxy Fit2,,,pD9Mev8fKW,com.sec.android.app.shealth,경영의 Quantum2,63989de5-6a22-9847-40b4-b88b67f9cba2,

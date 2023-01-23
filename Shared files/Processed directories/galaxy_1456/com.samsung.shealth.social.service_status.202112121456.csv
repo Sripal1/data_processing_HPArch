@@ -1,0 +1,5 @@
+com.samsung.shealth.social.service_status,6200039,1
+status,update_time,create_time,service_type,deviceuuid,pkg_name,datauuid
+1,2021-07-13 23:29:34.561,2021-07-13 07:43:55.592,2,MvwKid7qVC,com.sec.android.app.shealth,6cde59e5-131c-48ab-9d82-9ed8e4a4ff48,
+102,2021-07-13 23:29:34.492,2021-07-13 07:43:55.591,1,MvwKid7qVC,com.sec.android.app.shealth,140694a7-301e-4666-b22b-847d5897b2e0,
+0,2021-08-05 09:35:49.528,2021-08-05 09:35:49.528,3,MvwKid7qVC,com.sec.android.app.shealth,3db0f9ad-326b-4ed9-ac55-cf2dd8470b2e,

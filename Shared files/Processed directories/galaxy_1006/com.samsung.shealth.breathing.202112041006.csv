@@ -1,0 +1,4 @@
+com.samsung.shealth.breathing,6196009,1
+duration,start_time,custom,update_time,create_time,cycle,time_offset,deviceuuid,pkg_name,end_time,datauuid
+60,2021-07-18 07:27:18.000,,2021-07-18 07:27:18.000,2021-07-18 07:27:18.000,6,UTC+0000,Cw0AA/XVc1,com.sec.android.app.shealth,2021-07-18 07:27:18.000,9ffa15d1-07a0-18fd-bfb1-0daabf01cf9b,
+60,2021-07-28 07:41:29.000,,2021-07-28 07:41:29.000,2021-07-28 07:41:29.000,6,UTC+0000,Cw0AA/XVc1,com.sec.android.app.shealth,2021-07-28 07:41:29.000,17684120-6f9b-9580-d429-225f9b4738ec,

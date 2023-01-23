@@ -1,0 +1,4 @@
+com.samsung.shealth.wearable_settings,6196009,1
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2021-07-03 06:59:37.007,2021-07-03 06:59:37.007,,hrm_elevated_hr,,0,hmQws4UQ7U,com.sec.android.app.shealth,,a3cb7fac-4387-42f6-b939-1f6ca7822836,
+,,2021-07-03 07:00:31.065,2021-07-03 07:00:31.065,,exercise_selected_type,fd42a007-e885-49b5-a69c-9d3b2e09ea17.blob_value.json,,hmQws4UQ7U,com.sec.android.app.shealth,,fd42a007-e885-49b5-a69c-9d3b2e09ea17,

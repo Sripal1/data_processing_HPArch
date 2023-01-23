@@ -1,0 +1,9 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-11-06 01:49:29.994,2020-03-17 14:49:27.683,My Device,SM-G977N,,Jxx4Glzrrb,com.sec.android.app.shealth,봉재의 S10,b767e9c0-eee0-8b49-5cc6-798f958d65bc,
+Samsung,,,,,,360001,2018-05-22 16:31:49.303,2016-09-08 12:25:00.782,My Device,SM-G930S,,poYXze4wAV,com.sec.android.app.shealth,Samsung Galaxy S7,f0c61b7d-2a86-9cf9-c080-899dc72fe24a,
+Combined,,,,,,0,2018-05-22 16:31:49.303,2016-09-11 13:31:58.133,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Samsung Galaxy S7,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2018-05-22 16:31:49.303,2016-12-20 09:37:30.695,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Samsung Galaxy S7,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung,,,,,,360001,2019-12-01 22:14:53.894,2019-12-01 22:14:53.894,My Device,SM-G930S,,Px1Sxh3TM9,com.sec.android.app.shealth,Samsung Galaxy S7,87998c35-67a6-6f96-107a-cedd93ce0778,
+i-SENS,,,,,,360002,2021-07-08 00:37:16.673,2021-07-08 00:37:16.673,CareSens 1676,CareSens N Premier BLE,,qkmvKqzWcX,com.sec.android.app.shealth,Galaxy S10 5G,0da39cc3-917d-e19f-f404-ad3d1457bfd9,
+Samsung Electronics,1,25,10051,1,d34ea6f8-cacd-0535-4a71-60c5946d6537.capability.json,360003,2021-09-30 07:15:13.911,2021-07-03 02:36:02.121,Galaxy Fit2,,,KmBeZnzV9y,com.sec.android.app.shealth,Galaxy S10 5G,d34ea6f8-cacd-0535-4a71-60c5946d6537,

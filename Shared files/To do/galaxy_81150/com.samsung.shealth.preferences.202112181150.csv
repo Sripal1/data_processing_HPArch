@@ -1,0 +1,8 @@
+com.samsung.shealth.preferences,6200039,2,,,,,,,,,,
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,43:22.8,43:06.0,,,,0,fLETIHaUF/,com.sec.android.app.shealth,,settings.marketing_agreement
+,,,43:19.3,43:19.4,,,,1,fLETIHaUF/,com.sec.android.app.shealth,,oobe.sensitive_data_agreement
+,,,43:22.8,43:22.9,,,,0,fLETIHaUF/,com.sec.android.app.shealth,,oobe.location_agreement_kr
+,tracker.exercise,,43:24.8,43:24.8,,,34-favorite_list.blob_value.json,,fLETIHaUF/,com.sec.android.app.shealth,,34-favorite_list
+,tracker.exercise,,43:24.9,43:24.9,,,34-workout_list.blob_value.json,,fLETIHaUF/,com.sec.android.app.shealth,,34-workout_list
+,,,46:52.2,04:25.6,,,,1,fLETIHaUF/,com.sec.android.app.shealth,,step.detectworkout_switch

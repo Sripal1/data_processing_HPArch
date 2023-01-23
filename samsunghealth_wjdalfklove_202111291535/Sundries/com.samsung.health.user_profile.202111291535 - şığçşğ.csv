@@ -1,0 +1,15 @@
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+KOR,,2021-07-03 02:08:21.260,2021-07-03 02:08:21.263,,country,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+km,,2021-07-09 13:33:00.000,2021-07-09 12:43:23.000,,distance_unit,,,Oy6B6yQLXI,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000c,
+821099442580,,2021-07-03 02:08:25.391,2021-07-03 02:08:25.397,,phone_number,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000021,
+mmHg,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_pressure_unit,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000013,
+ml,,2021-07-09 13:33:00.000,2021-07-09 12:43:23.000,,water_unit,,,Oy6B6yQLXI,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000014,
+kg,,2021-07-09 13:33:00.000,2021-07-09 12:43:23.000,,weight_unit,,,Oy6B6yQLXI,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000007,
+mg/dL,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_glucose_unit,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000e,
+cm,,2021-07-09 13:33:00.000,2021-07-09 12:43:23.000,,height_unit,,,Oy6B6yQLXI,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000009,
+19790705,,2021-07-03 02:08:21.264,2021-07-03 02:08:21.266,,birth_date,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+C,,2021-07-09 13:33:00.000,2021-07-09 12:43:23.000,,temperature_unit,,,Oy6B6yQLXI,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000d,
+%,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,hba1c_unit,,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000012,
+,,2021-07-30 19:10:34.283,2021-07-03 02:13:51.557,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
+,,2021-09-04 04:35:43.980,2021-09-04 04:35:43.982,,iconx_step_calibration,00000000-0000-0000-0000-00000000001e.iconx_step_calibration.json,,OvMFo+Qpk+,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001e,

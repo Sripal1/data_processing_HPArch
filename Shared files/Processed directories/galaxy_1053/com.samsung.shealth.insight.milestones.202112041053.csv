@@ -1,0 +1,6 @@
+com.samsung.shealth.insight.milestones,6196009,1
+update_time,create_time,type,value,deviceuuid,pkg_name,datauuid,day_time
+2017-01-22 20:13:10.424,2017-01-18 19:24:00.846,1,26254,poYXze4wAV,com.sec.android.app.shealth,d62670f7-5cd9-4c45-ae84-0c6df6a4a393,1485043200000,
+2017-03-24 19:51:30.652,2017-03-24 19:51:30.652,0,269,poYXze4wAV,com.sec.android.app.shealth,ea29e645-9a67-426e-b7ca-f37048fba18c,1485043200000,
+2017-03-24 19:51:30.668,2017-03-24 19:51:30.668,2,1237,poYXze4wAV,com.sec.android.app.shealth,7903c0b2-236d-4195-941c-c442330b5bc9,1485043200000,
+2017-04-26 20:39:47.158,2017-03-24 19:51:30.689,3,13,poYXze4wAV,com.sec.android.app.shealth,9ca38a99-f988-432d-a917-cdbe88bd138e,1477872000000,

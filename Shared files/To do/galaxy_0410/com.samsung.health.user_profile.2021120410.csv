@@ -1,0 +1,9 @@
+com.samsung.health.user_profile,1144003,8
+int_value,pkg_name,double_value,key,blob_value,deviceuuid,text_value,float_value,datauuid,long_value,create_time,update_time
+,com.sec.android.app.shealth,,weight_unit,,jj7jIQhOji,kg,,00000000-0000-0000-0000-000000000007,,2021. 07. 03. 오후 12:10:03,2021. 07. 03. 오후 12:10:03,
+,com.sec.android.app.shealth,,height_unit,,jj7jIQhOji,cm,,00000000-0000-0000-0000-000000000009,,2021. 07. 03. 오후 12:10:03,2021. 07. 03. 오후 12:10:03,
+,com.sec.android.app.shealth,,distance_unit,,jj7jIQhOji,km,,00000000-0000-0000-0000-00000000000c,,2021. 07. 03. 오후 12:10:03,2021. 07. 03. 오후 12:10:03,
+,com.sec.android.app.shealth,,temperature_unit,,jj7jIQhOji,C,,00000000-0000-0000-0000-00000000000d,,2021. 07. 03. 오후 12:10:03,2021. 07. 03. 오후 12:10:03,
+,com.sec.android.app.shealth,,water_unit,,jj7jIQhOji,ml,,00000000-0000-0000-0000-000000000014,,2021. 07. 03. 오후 12:10:03,2021. 07. 03. 오후 12:10:03,
+,com.sec.android.app.shealth,,dashboard_config,00000000-0000-0000-0000-000000000016.blob_value,m5awt1XVZi,,,00000000-0000-0000-0000-000000000016,,2021. 07. 03. 오후 12:37:15,2021. 07. 03. 오후 12:37:15,
+

@@ -1,0 +1,5 @@
+com.samsung.shealth.food_favorite,6196009,1
+amount,food_type,update_time,create_time,name,unit,favoriteid,calorie,deviceuuid,pkg_name,datauuid,food_info_id
+1.0,1,2021-07-13 07:55:12.643,2021-07-13 07:55:12.643,점심,120001,482cb9d2-4806-4025-b894-eaba8fed611a,785.0,TKIQsULl+e,com.sec.android.app.shealth,3366a6bc-ae96-4bc9-bdda-4e256f9656bd,328943a2-1f19-49e1-b0cb-def2516c56d5,
+0.0,2,2021-07-13 07:55:14.761,2021-07-13 07:55:14.761,dacf3ec2-54bf-4d72-be9b-8da12f752a1d,,dacf3ec2-54bf-4d72-be9b-8da12f752a1d,0.0,TKIQsULl+e,com.sec.android.app.shealth,e57824f7-7baa-4c4e-8e01-69bbc965e8fe,328943a2-1f19-49e1-b0cb-def2516c56d5,
+0.0,2,2021-07-13 07:55:56.073,2021-07-13 07:55:56.073,e0db08fe-32e1-4171-8f77-d66e346c2693,,e0db08fe-32e1-4171-8f77-d66e346c2693,0.0,TKIQsULl+e,com.sec.android.app.shealth,e28cf639-1e39-4cf1-b76e-658063278956,ecfba612-c886-4ffd-b199-921dbddd9c90,

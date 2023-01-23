@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6170019,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+LGE,,,,,,360001,2021-07-03 02:43:39.432,2021-07-03 02:43:39.432,My Device,LM-Q630N,,V57RQzDK0T,com.sec.android.app.shealth,Q61,23ed5bc9-c0f0-d977-ed74-340553e7d546,
+Combined,,,,,,0,2021-07-03 02:58:32.313,2021-07-03 02:58:32.313,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Q61,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-03 02:58:32.587,2021-07-03 02:58:32.587,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Q61,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,25,10051,1,3516df9f-c097-8d9b-c930-9d973a82d73d.capability.json,360003,2021-09-16 23:20:47.391,2021-07-03 03:05:44.484,Galaxy Fit2,,,tpJmGFksb1,com.sec.android.app.shealth,Q61,3516df9f-c097-8d9b-c930-9d973a82d73d,

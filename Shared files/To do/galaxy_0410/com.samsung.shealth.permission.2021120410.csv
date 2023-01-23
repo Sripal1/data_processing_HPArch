@@ -1,0 +1,4 @@
+com.samsung.shealth.permission,1144003,1
+requester,pkg_name,item,operation,optionals,deviceuuid,datauuid,client_id,allowed,create_time,update_time,permitted_on
+,com.sec.android.app.shealth,data,sync,31323332-3766-3962-3830-383361393233.optionals,m5awt1XVZi,31323332-3766-3962-3830-383361393233,com.sec.android.app.shealth,0,2021. 07. 03. 오전 11:15:52,2021. 07. 03. 오전 11:15:52,1,
+

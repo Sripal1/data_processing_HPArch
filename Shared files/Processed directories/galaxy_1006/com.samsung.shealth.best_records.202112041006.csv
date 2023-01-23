@@ -1,0 +1,15 @@
+com.samsung.shealth.best_records,6196009,1
+source_id,device_type,update_time,create_time,source_pkg_name,date,type,value,extra_type,deviceuuid,pkg_name,controller_id,datauuid
+e2cc225e-d547-1716-d94f-07c863b74b84,-1,2021-11-13 12:41:36.927,2021-07-13 07:53:23.052,,1626195185000,1,12000.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_walking,35999480-bef3-4d49-ac19-782fef157f86,
+,-100003,2021-07-17 15:31:02.857,2021-07-17 15:31:02.857,,1626480000000,0,12756.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,fe07c949-71e0-4f65-9485-9fc91b9883dd,
+,-100003,2021-11-13 15:00:01.892,2021-11-13 15:00:01.892,,1636761600000,0,15895.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,d68748f8-c2e1-48c9-a5bf-f5b6581f9623,
+e2cc225e-d547-1716-d94f-07c863b74b84,-1,2021-11-13 12:41:36.927,2021-07-13 07:53:23.143,,1626195185000,2,0.053392433,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_walking,59daa708-5cd6-4cb6-a8a0-56a0f877ea19,
+30d85db1-4835-a475-b426-817926323797,-1,2021-11-13 12:41:36.908,2021-08-27 10:51:56.861,,1629544162000,1,6124000.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_others,35a718eb-7bc3-4c79-8aa3-a8fd42906348,
+6be9a839-3598-f892-0c9c-a5f0e4da565b,-1,2021-11-13 12:41:36.920,2021-07-13 08:02:31.799,,1626195671000,1,18000.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_walking,ac6e9aef-ee0d-4b0c-b39a-a7fb30ce1f72,
+30d85db1-4835-a475-b426-817926323797,-1,2021-11-13 12:41:36.908,2021-08-27 10:51:56.892,,1629544162000,2,406.27664,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_others,96ff85a8-79bf-47b9-8d41-a5c560ef78f8,
+6be9a839-3598-f892-0c9c-a5f0e4da565b,-1,2021-11-13 12:41:36.920,2021-07-13 08:02:31.842,,1626195671000,2,0.12458234,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.sport_walking,fabf4235-de6e-43fd-a85f-7cb664b7601e,
+,-100003,2021-09-04 15:30:53.772,2021-09-04 15:30:53.772,,1630713600000,0,13394.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,a1edd91c-e8cf-4c6a-9aad-9edd9ff2f5bf,
+,-100003,2021-07-13 15:57:29.488,2021-07-13 15:57:29.488,,1626134400000,0,1563.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,82d4c6a2-3ff8-413f-95fd-fcf029a6ff3d,
+,-100003,2021-09-21 15:15:08.022,2021-09-21 15:15:08.022,,1632182400000,0,13817.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,8d4a2890-f078-42b3-86f8-e232a5048fe5,
+,-100003,2021-07-14 15:00:00.817,2021-07-14 15:00:00.817,,1626220800000,0,10170.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,f5f219cc-c3e5-4434-8457-c4cdc5d2af90,
+,-100003,2021-11-07 15:10:16.315,2021-11-07 15:10:16.315,,1636243200000,0,15769.0,-1,TKIQsULl+e,com.sec.android.app.shealth,tracker.pedometer,9a119716-6538-47c4-91aa-8277171cf52b,

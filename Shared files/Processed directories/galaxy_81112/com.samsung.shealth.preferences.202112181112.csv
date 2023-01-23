@@ -1,0 +1,9 @@
+com.samsung.shealth.preferences,6195017,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2021-12-18 02:11:07.052,2021-07-13 08:12:07.034,,,,1,LIGCfGG+ec,com.sec.android.app.shealth,,oobe.location_agreement_kr,
+,,,2021-12-18 02:11:18.599,2021-12-18 02:11:18.714,,,,1,LIGCfGG+ec,com.sec.android.app.shealth,,step.detectworkout_switch,
+,,,2021-07-13 08:11:52.921,2021-07-13 08:12:07.044,,,,0,LIGCfGG+ec,com.sec.android.app.shealth,,settings.marketing_agreement,
+,tracker.exercise,,2021-10-10 05:26:21.705,2021-10-10 05:26:21.705,,,34-workout_list.blob_value.json,,LIGCfGG+ec,com.sec.android.app.shealth,,34-workout_list,
+,tracker.exercise,,2021-10-10 05:26:21.730,2021-10-10 05:26:21.730,,,34-favorite_list.blob_value.json,,LIGCfGG+ec,com.sec.android.app.shealth,,34-favorite_list,
+,,,2021-12-18 02:11:15.893,2021-10-10 05:26:23.214,,,,0,LIGCfGG+ec,com.sec.android.app.shealth,,weight.tracker_version,
+,,,2021-12-18 02:02:36.608,2021-12-18 01:55:15.683,,,,1,LIGCfGG+ec,com.sec.android.app.shealth,,oobe.sensitive_data_agreement,

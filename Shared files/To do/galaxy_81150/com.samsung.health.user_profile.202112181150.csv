@@ -1,0 +1,12 @@
+com.samsung.health.user_profile,6200039,8,,,,,,,,,
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+cm,,47:41.0,46:30.0,,height_unit,,,GzaRnrgqFB,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000009
+km,,47:41.0,46:30.0,,distance_unit,,,GzaRnrgqFB,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000c
+kg,,47:41.0,46:30.0,,weight_unit,,,GzaRnrgqFB,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000007
+KOR,,20:33.3,20:33.3,,country,,,NooOiVctGC,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001
+ml,,47:41.0,46:30.0,,water_unit,,,GzaRnrgqFB,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000014
+mmHg,,00:00.0,00:00.0,,blood_pressure_unit,,,fLETIHaUF/,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000013
+C,,47:41.0,46:30.0,,temperature_unit,,,GzaRnrgqFB,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000d
+mg/dL,,00:00.0,00:00.0,,blood_glucose_unit,,,fLETIHaUF/,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000e
+,,06:57.2,03:10.4,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,fLETIHaUF/,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016
+%,,00:00.0,00:00.0,,hba1c_unit,,,fLETIHaUF/,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000012

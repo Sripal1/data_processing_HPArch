@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-07-13 07:33:25.243,2021-07-13 07:33:25.243,My Device,SM-G970N,,TKIQsULl+e,com.sec.android.app.shealth,도진의 S10e,1465049d-1ac8-c685-7816-a05081115ec0,
+Samsung Electronics,1,25,10051,1,67264132-594d-ee2e-2a27-38296c9c4ce6.capability.json,360003,2021-09-29 21:35:14.274,2021-07-13 07:36:26.251,Galaxy Fit2,,,Cw0AA/XVc1,com.sec.android.app.shealth,Galaxy S10e,67264132-594d-ee2e-2a27-38296c9c4ce6,
+Combined,,,,,,0,2021-07-13 07:38:11.822,2021-07-13 07:38:11.822,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Galaxy S10e,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-07-13 07:38:12.088,2021-07-13 07:38:12.088,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy S10e,471ca32b-a665-1e9e-7c27-7ac69485dc05,

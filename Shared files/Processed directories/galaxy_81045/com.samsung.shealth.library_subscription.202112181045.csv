@@ -1,0 +1,4 @@
+com.samsung.shealth.library_subscription,6201005,1
+subscription_state,update_time,create_time,tile_controller_id,type,deviceuuid,pkg_name,datauuid,provider_pkg_name
+1,2015-12-15 17:41:37.558,2015-12-15 17:41:37.558,tracker.spo2,0,wakAfCXJCw,com.sec.android.app.shealth,5a1ff8d9-dd14-4b3c-88df-ba4cf2f4af82,com.sec.android.app.shealth,
+1,2015-12-15 17:41:37.851,2015-12-15 17:41:37.851,tracker.stress,0,wakAfCXJCw,com.sec.android.app.shealth,8b6dfba5-f130-4259-8f2e-3da290f3f0d4,com.sec.android.app.shealth,

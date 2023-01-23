@@ -1,0 +1,8 @@
+com.samsung.shealth.goal,6201005,2
+start_time,float_value,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid,goal_type
+2017-02-05 06:39:55.316,-1.0,2017-02-05 06:39:55.322,2017-02-05 06:39:55.322,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,4175e61a-e518-4c3a-b915-4fe075dbe28b,400013,
+2017-02-05 06:40:07.047,-1.0,2017-02-05 06:40:07.049,2017-02-05 06:40:07.049,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,486602d7-cbea-4c25-9c43-4bc32006262c,400017,
+2017-02-05 06:39:55.322,-1.0,2017-02-05 06:39:55.325,2017-02-05 06:39:55.325,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,7efc6bc1-7b11-410b-b3a4-9d90aaf7342f,400012,
+2017-02-05 06:40:07.049,-1.0,2017-02-05 06:40:07.053,2017-02-05 06:40:07.053,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,e90c6e43-9850-4d4f-8181-99a22770da84,400016,
+2017-02-05 06:40:16.910,-1.0,2017-02-05 06:40:16.912,2017-02-05 06:40:16.912,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,b7d0cfe6-7442-48d3-b2c6-eba2e831def6,400021,
+2017-02-05 06:40:16.912,-1.0,2017-02-05 06:40:16.915,2017-02-05 06:40:16.915,-1,UTC+0900,wakAfCXJCw,com.sec.android.app.shealth,0d4ff29e-94da-409b-9c8b-09f91449dff9,400020,

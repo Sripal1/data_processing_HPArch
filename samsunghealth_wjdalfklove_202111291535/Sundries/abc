@@ -1,0 +1,343 @@
+==> com.samsung.health.device_profile.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+
+==> com.samsung.health.device_profile.202111291535 - şığçşğ.csv <==
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+
+==> com.samsung.health.device_profile.202111291535.csv <==
+com.samsung.health.device_profile,6196009,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+
+==> com.samsung.health.food_info.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.food_info,6196009,6
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,description,custom,provider_food_id,metric_serving_amount,sodium,dietary_fiber,total_fat,update_time,create_time,monosaturated_fat,protein,polysaturated_fat,iron,name,sugar,added_sugar,calcium,calorie,serving_description,info_provider,deviceuuid,metric_serving_unit,saturated_fat,trans_fat,pkg_name,carbohydrate,unit_count_per_calorie,datauuid,default_number_of_serving_unit
+
+==> com.samsung.health.food_info.202111291535 - şığçşğ.csv <==
+com.samsung.health.food_info,6196009,6
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,description,custom,provider_food_id,metric_serving_amount,sodium,dietary_fiber,total_fat,update_time,create_time,monosaturated_fat,protein,polysaturated_fat,iron,name,sugar,added_sugar,calcium,calorie,serving_description,info_provider,deviceuuid,metric_serving_unit,saturated_fat,trans_fat,pkg_name,carbohydrate,unit_count_per_calorie,datauuid,default_number_of_serving_unit
+
+==> com.samsung.health.food_info.202111291535.csv <==
+com.samsung.health.food_info,6196009,6
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,description,custom,provider_food_id,metric_serving_amount,sodium,dietary_fiber,total_fat,update_time,create_time,monosaturated_fat,protein,polysaturated_fat,iron,name,sugar,added_sugar,calcium,calorie,serving_description,info_provider,deviceuuid,metric_serving_unit,saturated_fat,trans_fat,pkg_name,carbohydrate,unit_count_per_calorie,datauuid,default_number_of_serving_unit
+
+==> com.samsung.health.food_intake.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.food_intake,6196009,4
+start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
+
+==> com.samsung.health.food_intake.202111291535 - şığçşğ.csv <==
+com.samsung.health.food_intake,6196009,4
+start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
+
+==> com.samsung.health.food_intake.202111291535.csv <==
+com.samsung.health.food_intake,6196009,4
+start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
+
+==> com.samsung.health.nutrition.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.nutrition,6196009,3
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,start_time,custom,sodium,dietary_fiber,total_fat,update_time,create_time,meal_type,monosaturated_fat,protein,polysaturated_fat,iron,sugar,title,added_sugar,calcium,calorie,time_offset,deviceuuid,saturated_fat,trans_fat,pkg_name,carbohydrate,datauuid
+
+==> com.samsung.health.nutrition.202111291535 - şığçşğ.csv <==
+com.samsung.health.nutrition,6196009,3
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,start_time,custom,sodium,dietary_fiber,total_fat,update_time,create_time,meal_type,monosaturated_fat,protein,polysaturated_fat,iron,sugar,title,added_sugar,calcium,calorie,time_offset,deviceuuid,saturated_fat,trans_fat,pkg_name,carbohydrate,datauuid
+
+==> com.samsung.health.nutrition.202111291535.csv <==
+com.samsung.health.nutrition,6196009,3
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,start_time,custom,sodium,dietary_fiber,total_fat,update_time,create_time,meal_type,monosaturated_fat,protein,polysaturated_fat,iron,sugar,title,added_sugar,calcium,calorie,time_offset,deviceuuid,saturated_fat,trans_fat,pkg_name,carbohydrate,datauuid
+
+==> com.samsung.health.sleep_stage.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.sleep_stage,6196009,6
+start_time,sleep_id,custom,update_time,create_time,stage,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.health.sleep_stage.202111291535 - şığçşğ.csv <==
+com.samsung.health.sleep_stage,6196009,6
+start_time,sleep_id,custom,update_time,create_time,stage,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.health.sleep_stage.202111291535.csv <==
+com.samsung.health.sleep_stage,6196009,6
+start_time,sleep_id,custom,update_time,create_time,stage,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.health.user_profile.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.health.user_profile.202111291535 - şığçşğ.csv <==
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.health.user_profile.202111291535.csv <==
+com.samsung.health.user_profile,6196009,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.health.water_intake.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.health.water_intake,6196009,5
+start_time,amount,custom,update_time,create_time,time_offset,deviceuuid,unit_amount,comment,pkg_name,datauuid
+
+==> com.samsung.health.water_intake.202111291535 - şığçşğ.csv <==
+com.samsung.health.water_intake,6196009,5
+start_time,amount,custom,update_time,create_time,time_offset,deviceuuid,unit_amount,comment,pkg_name,datauuid
+
+==> com.samsung.health.water_intake.202111291535.csv <==
+com.samsung.health.water_intake,6196009,5
+start_time,amount,custom,update_time,create_time,time_offset,deviceuuid,unit_amount,comment,pkg_name,datauuid
+
+==> com.samsung.shealth.activity.day_summary.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.activity.day_summary,6196009,2
+step_count,active_time,target,others_time,update_time,create_time,goal,longest_active_time,score,distance,calorie,extra_data,deviceuuid,run_time,pkg_name,walk_time,longest_idle_time,datauuid,day_time
+
+==> com.samsung.shealth.activity.day_summary.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.activity.day_summary,6196009,2
+step_count,active_time,target,others_time,update_time,create_time,goal,longest_active_time,score,distance,calorie,extra_data,deviceuuid,run_time,pkg_name,walk_time,longest_idle_time,datauuid,day_time
+
+==> com.samsung.shealth.activity.day_summary.202111291535.csv <==
+com.samsung.shealth.activity.day_summary,6196009,2
+step_count,active_time,target,others_time,update_time,create_time,goal,longest_active_time,score,distance,calorie,extra_data,deviceuuid,run_time,pkg_name,walk_time,longest_idle_time,datauuid,day_time
+
+==> com.samsung.shealth.activity.goal.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.activity.goal,6196009,1
+update_time,create_time,value,time_offset,deviceuuid,pkg_name,set_time,datauuid
+
+==> com.samsung.shealth.activity.goal.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.activity.goal,6196009,1
+update_time,create_time,value,time_offset,deviceuuid,pkg_name,set_time,datauuid
+
+==> com.samsung.shealth.activity.goal.202111291535.csv <==
+com.samsung.shealth.activity.goal,6196009,1
+update_time,create_time,value,time_offset,deviceuuid,pkg_name,set_time,datauuid
+
+==> com.samsung.shealth.best_records.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.best_records,6196009,1
+source_id,device_type,update_time,create_time,source_pkg_name,date,type,value,extra_type,deviceuuid,pkg_name,controller_id,datauuid
+
+==> com.samsung.shealth.best_records.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.best_records,6196009,1
+source_id,device_type,update_time,create_time,source_pkg_name,date,type,value,extra_type,deviceuuid,pkg_name,controller_id,datauuid
+
+==> com.samsung.shealth.best_records.202111291535.csv <==
+com.samsung.shealth.best_records,6196009,1
+source_id,device_type,update_time,create_time,source_pkg_name,date,type,value,extra_type,deviceuuid,pkg_name,controller_id,datauuid
+
+==> com.samsung.shealth.blood_glucose.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.blood_glucose,6196009,2
+insulin_injected,hba1c_id,medication,com.samsung.health.blood_glucose.start_time,com.samsung.health.blood_glucose.custom,com.samsung.health.blood_glucose.update_time,com.samsung.health.blood_glucose.create_time,com.samsung.health.blood_glucose.meal_time,com.samsung.health.blood_glucose.meal_type,com.samsung.health.blood_glucose.glucose,com.samsung.health.blood_glucose.measurement_type,com.samsung.health.blood_glucose.time_offset,com.samsung.health.blood_glucose.deviceuuid,com.samsung.health.blood_glucose.comment,com.samsung.health.blood_glucose.pkg_name,com.samsung.health.blood_glucose.datauuid,com.samsung.health.blood_glucose.sample_source_type
+
+==> com.samsung.shealth.blood_glucose.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.blood_glucose,6196009,2
+insulin_injected,hba1c_id,medication,com.samsung.health.blood_glucose.start_time,com.samsung.health.blood_glucose.custom,com.samsung.health.blood_glucose.update_time,com.samsung.health.blood_glucose.create_time,com.samsung.health.blood_glucose.meal_time,com.samsung.health.blood_glucose.meal_type,com.samsung.health.blood_glucose.glucose,com.samsung.health.blood_glucose.measurement_type,com.samsung.health.blood_glucose.time_offset,com.samsung.health.blood_glucose.deviceuuid,com.samsung.health.blood_glucose.comment,com.samsung.health.blood_glucose.pkg_name,com.samsung.health.blood_glucose.datauuid,com.samsung.health.blood_glucose.sample_source_type
+
+==> com.samsung.shealth.blood_glucose.202111291535.csv <==
+com.samsung.shealth.blood_glucose,6196009,2
+insulin_injected,hba1c_id,medication,com.samsung.health.blood_glucose.start_time,com.samsung.health.blood_glucose.custom,com.samsung.health.blood_glucose.update_time,com.samsung.health.blood_glucose.create_time,com.samsung.health.blood_glucose.meal_time,com.samsung.health.blood_glucose.meal_type,com.samsung.health.blood_glucose.glucose,com.samsung.health.blood_glucose.measurement_type,com.samsung.health.blood_glucose.time_offset,com.samsung.health.blood_glucose.deviceuuid,com.samsung.health.blood_glucose.comment,com.samsung.health.blood_glucose.pkg_name,com.samsung.health.blood_glucose.datauuid,com.samsung.health.blood_glucose.sample_source_type
+
+==> com.samsung.shealth.breathing.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.breathing,6196009,1
+duration,start_time,custom,update_time,create_time,cycle,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.shealth.breathing.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.breathing,6196009,1
+duration,start_time,custom,update_time,create_time,cycle,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.shealth.breathing.202111291535.csv <==
+com.samsung.shealth.breathing,6196009,1
+duration,start_time,custom,update_time,create_time,cycle,time_offset,deviceuuid,pkg_name,end_time,datauuid
+
+==> com.samsung.shealth.calories_burned.details.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.calories_burned.details,6196009,2
+active_calories_goal,version,extra_data,com.samsung.shealth.calories_burned.tef_calorie,com.samsung.shealth.calories_burned.active_time,com.samsung.shealth.calories_burned.rest_calorie,com.samsung.shealth.calories_burned.update_time,com.samsung.shealth.calories_burned.create_time,com.samsung.shealth.calories_burned.active_calorie,com.samsung.shealth.calories_burned.deviceuuid,com.samsung.shealth.calories_burned.pkg_name,com.samsung.shealth.calories_burned.datauuid,com.samsung.shealth.calories_burned.day_time
+
+==> com.samsung.shealth.calories_burned.details.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.calories_burned.details,6196009,2
+active_calories_goal,version,extra_data,com.samsung.shealth.calories_burned.tef_calorie,com.samsung.shealth.calories_burned.active_time,com.samsung.shealth.calories_burned.rest_calorie,com.samsung.shealth.calories_burned.update_time,com.samsung.shealth.calories_burned.create_time,com.samsung.shealth.calories_burned.active_calorie,com.samsung.shealth.calories_burned.deviceuuid,com.samsung.shealth.calories_burned.pkg_name,com.samsung.shealth.calories_burned.datauuid,com.samsung.shealth.calories_burned.day_time
+
+==> com.samsung.shealth.calories_burned.details.202111291535.csv <==
+com.samsung.shealth.calories_burned.details,6196009,2
+active_calories_goal,version,extra_data,com.samsung.shealth.calories_burned.tef_calorie,com.samsung.shealth.calories_burned.active_time,com.samsung.shealth.calories_burned.rest_calorie,com.samsung.shealth.calories_burned.update_time,com.samsung.shealth.calories_burned.create_time,com.samsung.shealth.calories_burned.active_calorie,com.samsung.shealth.calories_burned.deviceuuid,com.samsung.shealth.calories_burned.pkg_name,com.samsung.shealth.calories_burned.datauuid,com.samsung.shealth.calories_burned.day_time
+
+==> com.samsung.shealth.exercise.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.exercise,6196009,11
+live_data_internal,mission_value,subset_data,total_calorie,completion_status,pace_info_id,pace_live_data,sensing_status,source_type,mission_type,tracking_status,program_id,reward_status,heart_rate_sample_count,mission_extra_value,program_schedule_id,heart_rate_deviceuuid,location_data_internal,additional_internal,com.samsung.health.exercise.duration,com.samsung.health.exercise.additional,com.samsung.health.exercise.mean_caloricburn_rate,com.samsung.health.exercise.location_data,com.samsung.health.exercise.start_time,com.samsung.health.exercise.exercise_type,com.samsung.health.exercise.custom,com.samsung.health.exercise.max_altitude,com.samsung.health.exercise.incline_distance,com.samsung.health.exercise.mean_heart_rate,com.samsung.health.exercise.count_type,com.samsung.health.exercise.mean_rpm,com.samsung.health.exercise.min_altitude,com.samsung.health.exercise.max_heart_rate,com.samsung.health.exercise.update_time,com.samsung.health.exercise.create_time,com.samsung.health.exercise.max_power,com.samsung.health.exercise.max_speed,com.samsung.health.exercise.mean_cadence,com.samsung.health.exercise.min_heart_rate,com.samsung.health.exercise.count,com.samsung.health.exercise.distance,com.samsung.health.exercise.max_caloricburn_rate,com.samsung.health.exercise.calorie,com.samsung.health.exercise.max_cadence,com.samsung.health.exercise.decline_distance,com.samsung.health.exercise.vo2_max,com.samsung.health.exercise.time_offset,com.samsung.health.exercise.deviceuuid,com.samsung.health.exercise.max_rpm,com.samsung.health.exercise.comment,com.samsung.health.exercise.live_data,com.samsung.health.exercise.mean_power,com.samsung.health.exercise.mean_speed,com.samsung.health.exercise.pkg_name,com.samsung.health.exercise.altitude_gain,com.samsung.health.exercise.altitude_loss,com.samsung.health.exercise.exercise_custom_type,com.samsung.health.exercise.end_time,com.samsung.health.exercise.datauuid
+
+==> com.samsung.shealth.exercise.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.exercise,6196009,11
+live_data_internal,mission_value,subset_data,total_calorie,completion_status,pace_info_id,pace_live_data,sensing_status,source_type,mission_type,tracking_status,program_id,reward_status,heart_rate_sample_count,mission_extra_value,program_schedule_id,heart_rate_deviceuuid,location_data_internal,additional_internal,com.samsung.health.exercise.duration,com.samsung.health.exercise.additional,com.samsung.health.exercise.mean_caloricburn_rate,com.samsung.health.exercise.location_data,com.samsung.health.exercise.start_time,com.samsung.health.exercise.exercise_type,com.samsung.health.exercise.custom,com.samsung.health.exercise.max_altitude,com.samsung.health.exercise.incline_distance,com.samsung.health.exercise.mean_heart_rate,com.samsung.health.exercise.count_type,com.samsung.health.exercise.mean_rpm,com.samsung.health.exercise.min_altitude,com.samsung.health.exercise.max_heart_rate,com.samsung.health.exercise.update_time,com.samsung.health.exercise.create_time,com.samsung.health.exercise.max_power,com.samsung.health.exercise.max_speed,com.samsung.health.exercise.mean_cadence,com.samsung.health.exercise.min_heart_rate,com.samsung.health.exercise.count,com.samsung.health.exercise.distance,com.samsung.health.exercise.max_caloricburn_rate,com.samsung.health.exercise.calorie,com.samsung.health.exercise.max_cadence,com.samsung.health.exercise.decline_distance,com.samsung.health.exercise.vo2_max,com.samsung.health.exercise.time_offset,com.samsung.health.exercise.deviceuuid,com.samsung.health.exercise.max_rpm,com.samsung.health.exercise.comment,com.samsung.health.exercise.live_data,com.samsung.health.exercise.mean_power,com.samsung.health.exercise.mean_speed,com.samsung.health.exercise.pkg_name,com.samsung.health.exercise.altitude_gain,com.samsung.health.exercise.altitude_loss,com.samsung.health.exercise.exercise_custom_type,com.samsung.health.exercise.end_time,com.samsung.health.exercise.datauuid
+
+==> com.samsung.shealth.exercise.202111291535.csv <==
+com.samsung.shealth.exercise,6196009,11
+live_data_internal,mission_value,subset_data,total_calorie,completion_status,pace_info_id,pace_live_data,sensing_status,source_type,mission_type,tracking_status,program_id,reward_status,heart_rate_sample_count,mission_extra_value,program_schedule_id,heart_rate_deviceuuid,location_data_internal,additional_internal,com.samsung.health.exercise.duration,com.samsung.health.exercise.additional,com.samsung.health.exercise.mean_caloricburn_rate,com.samsung.health.exercise.location_data,com.samsung.health.exercise.start_time,com.samsung.health.exercise.exercise_type,com.samsung.health.exercise.custom,com.samsung.health.exercise.max_altitude,com.samsung.health.exercise.incline_distance,com.samsung.health.exercise.mean_heart_rate,com.samsung.health.exercise.count_type,com.samsung.health.exercise.mean_rpm,com.samsung.health.exercise.min_altitude,com.samsung.health.exercise.max_heart_rate,com.samsung.health.exercise.update_time,com.samsung.health.exercise.create_time,com.samsung.health.exercise.max_power,com.samsung.health.exercise.max_speed,com.samsung.health.exercise.mean_cadence,com.samsung.health.exercise.min_heart_rate,com.samsung.health.exercise.count,com.samsung.health.exercise.distance,com.samsung.health.exercise.max_caloricburn_rate,com.samsung.health.exercise.calorie,com.samsung.health.exercise.max_cadence,com.samsung.health.exercise.decline_distance,com.samsung.health.exercise.vo2_max,com.samsung.health.exercise.time_offset,com.samsung.health.exercise.deviceuuid,com.samsung.health.exercise.max_rpm,com.samsung.health.exercise.comment,com.samsung.health.exercise.live_data,com.samsung.health.exercise.mean_power,com.samsung.health.exercise.mean_speed,com.samsung.health.exercise.pkg_name,com.samsung.health.exercise.altitude_gain,com.samsung.health.exercise.altitude_loss,com.samsung.health.exercise.exercise_custom_type,com.samsung.health.exercise.end_time,com.samsung.health.exercise.datauuid
+
+==> com.samsung.shealth.exercise.weather.202111291535 - şığçşğ (2).csv <==
+com.samsung.shealth.exercise.weather,6196009,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+
+==> com.samsung.shealth.exercise.weather.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.exercise.weather,6196009,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+
+==> com.samsung.shealth.exercise.weather.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.exercise.weather,6196009,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+
+==> com.samsung.shealth.exercise.weather.202111291535.csv <==
+com.samsung.shealth.exercise.weather,6196009,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+
+==> com.samsung.shealth.food_favorite.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.food_favorite,6196009,1
+amount,food_type,update_time,create_time,name,unit,favoriteid,calorie,deviceuuid,pkg_name,datauuid,food_info_id
+
+==> com.samsung.shealth.food_favorite.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.food_favorite,6196009,1
+amount,food_type,update_time,create_time,name,unit,favoriteid,calorie,deviceuuid,pkg_name,datauuid,food_info_id
+
+==> com.samsung.shealth.food_favorite.202111291535.csv <==
+com.samsung.shealth.food_favorite,6196009,1
+amount,food_type,update_time,create_time,name,unit,favoriteid,calorie,deviceuuid,pkg_name,datauuid,food_info_id
+
+==> com.samsung.shealth.food_frequent.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.food_frequent,6196009,1
+eveningsnack_count,update_time,create_time,morningsnack_count,dinner_count,breakfast_count,deviceuuid,pkg_name,afternoonsnack_count,datauuid,food_info_id,lunch_count
+
+==> com.samsung.shealth.food_frequent.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.food_frequent,6196009,1
+eveningsnack_count,update_time,create_time,morningsnack_count,dinner_count,breakfast_count,deviceuuid,pkg_name,afternoonsnack_count,datauuid,food_info_id,lunch_count
+
+==> com.samsung.shealth.food_frequent.202111291535.csv <==
+com.samsung.shealth.food_frequent,6196009,1
+eveningsnack_count,update_time,create_time,morningsnack_count,dinner_count,breakfast_count,deviceuuid,pkg_name,afternoonsnack_count,datauuid,food_info_id,lunch_count
+
+==> com.samsung.shealth.goal_history.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.goal_history,6196009,1
+update_time,create_time,type,time_offset,deviceuuid,pkg_name,set_time,controller_id,datauuid
+
+==> com.samsung.shealth.goal_history.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.goal_history,6196009,1
+update_time,create_time,type,time_offset,deviceuuid,pkg_name,set_time,controller_id,datauuid
+
+==> com.samsung.shealth.goal_history.202111291535.csv <==
+com.samsung.shealth.goal_history,6196009,1
+update_time,create_time,type,time_offset,deviceuuid,pkg_name,set_time,controller_id,datauuid
+
+==> com.samsung.shealth.permission.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.permission,6196009,1
+client_id,allowed,update_time,create_time,item,requester,deviceuuid,pkg_name,operation,permitted_on,datauuid,optionals
+
+==> com.samsung.shealth.permission.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.permission,6196009,1
+client_id,allowed,update_time,create_time,item,requester,deviceuuid,pkg_name,operation,permitted_on,datauuid,optionals
+
+==> com.samsung.shealth.permission.202111291535.csv <==
+com.samsung.shealth.permission,6196009,1
+client_id,allowed,update_time,create_time,item,requester,deviceuuid,pkg_name,operation,permitted_on,datauuid,optionals
+
+==> com.samsung.shealth.preferences.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.preferences,6196009,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.shealth.preferences.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.preferences,6196009,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.shealth.preferences.202111291535.csv <==
+com.samsung.shealth.preferences,6196009,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+
+==> com.samsung.shealth.report.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.report,6196009,3
+timezone,start_date,update_time,create_time,type,is_empty,version,deviceuuid,content,pkg_name,datauuid,compressed_content
+
+==> com.samsung.shealth.report.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.report,6196009,3
+timezone,start_date,update_time,create_time,type,is_empty,version,deviceuuid,content,pkg_name,datauuid,compressed_content
+
+==> com.samsung.shealth.report.202111291535.csv <==
+com.samsung.shealth.report,6196009,3
+timezone,start_date,update_time,create_time,type,is_empty,version,deviceuuid,content,pkg_name,datauuid,compressed_content
+
+==> com.samsung.shealth.rewards.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.rewards,6196009,4
+number_of_streak,start_time,exercise_type,device_type,exercise_session_id,update_time,create_time,source_pkg_name,program_id,title,time_offset,extra_data,deviceuuid,pkg_name,controller_id,end_time,datauuid,is_visible
+
+==> com.samsung.shealth.rewards.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.rewards,6196009,4
+number_of_streak,start_time,exercise_type,device_type,exercise_session_id,update_time,create_time,source_pkg_name,program_id,title,time_offset,extra_data,deviceuuid,pkg_name,controller_id,end_time,datauuid,is_visible
+
+==> com.samsung.shealth.rewards.202111291535.csv <==
+com.samsung.shealth.rewards,6196009,4
+number_of_streak,start_time,exercise_type,device_type,exercise_session_id,update_time,create_time,source_pkg_name,program_id,title,time_offset,extra_data,deviceuuid,pkg_name,controller_id,end_time,datauuid,is_visible
+
+==> com.samsung.shealth.sleep.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.sleep,6196009,5
+original_efficiency,mental_recovery,factor_01,factor_02,factor_03,factor_04,factor_05,factor_06,factor_07,factor_08,factor_09,factor_10,has_sleep_data,combined_id,data_version,physical_recovery,original_wake_up_time,movement_awakening,original_bed_time,quality,extra_data,sleep_cycle,efficiency,sleep_score,sleep_duration,com.samsung.health.sleep.start_time,com.samsung.health.sleep.custom,com.samsung.health.sleep.update_time,com.samsung.health.sleep.create_time,com.samsung.health.sleep.time_offset,com.samsung.health.sleep.deviceuuid,com.samsung.health.sleep.comment,com.samsung.health.sleep.pkg_name,com.samsung.health.sleep.end_time,com.samsung.health.sleep.datauuid
+
+==> com.samsung.shealth.sleep.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.sleep,6196009,5
+original_efficiency,mental_recovery,factor_01,factor_02,factor_03,factor_04,factor_05,factor_06,factor_07,factor_08,factor_09,factor_10,has_sleep_data,combined_id,data_version,physical_recovery,original_wake_up_time,movement_awakening,original_bed_time,quality,extra_data,sleep_cycle,efficiency,sleep_score,sleep_duration,com.samsung.health.sleep.start_time,com.samsung.health.sleep.custom,com.samsung.health.sleep.update_time,com.samsung.health.sleep.create_time,com.samsung.health.sleep.time_offset,com.samsung.health.sleep.deviceuuid,com.samsung.health.sleep.comment,com.samsung.health.sleep.pkg_name,com.samsung.health.sleep.end_time,com.samsung.health.sleep.datauuid
+
+==> com.samsung.shealth.sleep.202111291535.csv <==
+com.samsung.shealth.sleep,6196009,5
+original_efficiency,mental_recovery,factor_01,factor_02,factor_03,factor_04,factor_05,factor_06,factor_07,factor_08,factor_09,factor_10,has_sleep_data,combined_id,data_version,physical_recovery,original_wake_up_time,movement_awakening,original_bed_time,quality,extra_data,sleep_cycle,efficiency,sleep_score,sleep_duration,com.samsung.health.sleep.start_time,com.samsung.health.sleep.custom,com.samsung.health.sleep.update_time,com.samsung.health.sleep.create_time,com.samsung.health.sleep.time_offset,com.samsung.health.sleep.deviceuuid,com.samsung.health.sleep.comment,com.samsung.health.sleep.pkg_name,com.samsung.health.sleep.end_time,com.samsung.health.sleep.datauuid
+
+==> com.samsung.shealth.sleep_data.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.sleep_data,6196009,4
+start_time,update_time,create_time,sleep_uuid,sleep_status,time_offset,deviceuuid,comment,pkg_name,json_version,datauuid
+
+==> com.samsung.shealth.sleep_data.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.sleep_data,6196009,4
+start_time,update_time,create_time,sleep_uuid,sleep_status,time_offset,deviceuuid,comment,pkg_name,json_version,datauuid
+
+==> com.samsung.shealth.sleep_data.202111291535.csv <==
+com.samsung.shealth.sleep_data,6196009,4
+start_time,update_time,create_time,sleep_uuid,sleep_status,time_offset,deviceuuid,comment,pkg_name,json_version,datauuid
+
+==> com.samsung.shealth.social.service_status.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.social.service_status,6196009,1
+status,update_time,create_time,service_type,deviceuuid,pkg_name,datauuid
+
+==> com.samsung.shealth.social.service_status.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.social.service_status,6196009,1
+status,update_time,create_time,service_type,deviceuuid,pkg_name,datauuid
+
+==> com.samsung.shealth.social.service_status.202111291535.csv <==
+com.samsung.shealth.social.service_status,6196009,1
+status,update_time,create_time,service_type,deviceuuid,pkg_name,datauuid
+
+==> com.samsung.shealth.step_daily_trend.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.step_daily_trend,6196009,6
+binning_data,update_time,create_time,source_pkg_name,source_type,count,speed,distance,calorie,deviceuuid,pkg_name,datauuid,day_time
+
+==> com.samsung.shealth.step_daily_trend.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.step_daily_trend,6196009,6
+binning_data,update_time,create_time,source_pkg_name,source_type,count,speed,distance,calorie,deviceuuid,pkg_name,datauuid,day_time
+
+==> com.samsung.shealth.step_daily_trend.202111291535.csv <==
+com.samsung.shealth.step_daily_trend,6196009,6
+binning_data,update_time,create_time,source_pkg_name,source_type,count,speed,distance,calorie,deviceuuid,pkg_name,datauuid,day_time
+
+==> com.samsung.shealth.stress.202111291535.csv <==
+com.samsung.shealth.stress,6196009,7
+start_time,custom,binning_data,tag_id,update_time,create_time,max,min,score,algorithm,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+
+==> com.samsung.shealth.tracker.heart_rate.202111291535.csv <==
+com.samsung.shealth.tracker.heart_rate,6196009,3
+source,tag_id,com.samsung.health.heart_rate.heart_beat_count,com.samsung.health.heart_rate.start_time,com.samsung.health.heart_rate.custom,com.samsung.health.heart_rate.binning_data,com.samsung.health.heart_rate.update_time,com.samsung.health.heart_rate.create_time,com.samsung.health.heart_rate.max,com.samsung.health.heart_rate.min,com.samsung.health.heart_rate.time_offset,com.samsung.health.heart_rate.deviceuuid,com.samsung.health.heart_rate.comment,com.samsung.health.heart_rate.pkg_name,com.samsung.health.heart_rate.end_time,com.samsung.health.heart_rate.datauuid,com.samsung.health.heart_rate.heart_rate
+
+==> com.samsung.shealth.tracker.pedometer_day_summary.202111291535.csv <==
+com.samsung.shealth.tracker.pedometer_day_summary,6196009,5
+step_count,binning_data,active_time,recommendation,run_step_count,update_time,source_package_name,create_time,source_info,speed,distance,calorie,walk_step_count,deviceuuid,pkg_name,healthy_step,achievement,datauuid,day_time
+
+==> com.samsung.shealth.tracker.pedometer_event.202111291535.csv <==
+com.samsung.shealth.tracker.pedometer_event,6196009,1
+start_time,update_time,create_time,type,time_offset,deviceuuid,pkg_name,healthy_step,end_time,datauuid
+
+==> com.samsung.shealth.tracker.pedometer_step_count.202111291535 - şığçşğ - şığçşğ.csv <==
+com.samsung.shealth.tracker.pedometer_step_count,6196009,2
+duration,version_code,run_step,walk_step,com.samsung.health.step_count.start_time,com.samsung.health.step_count.sample_position_type,com.samsung.health.step_count.custom,com.samsung.health.step_count.update_time,com.samsung.health.step_count.create_time,com.samsung.health.step_count.count,com.samsung.health.step_count.speed,com.samsung.health.step_count.distance,com.samsung.health.step_count.calorie,com.samsung.health.step_count.time_offset,com.samsung.health.step_count.deviceuuid,com.samsung.health.step_count.pkg_name,com.samsung.health.step_count.end_time,com.samsung.health.step_count.datauuid
+
+==> com.samsung.shealth.tracker.pedometer_step_count.202111291535 - şığçşğ.csv <==
+com.samsung.shealth.tracker.pedometer_step_count,6196009,2
+duration,version_code,run_step,walk_step,com.samsung.health.step_count.start_time,com.samsung.health.step_count.sample_position_type,com.samsung.health.step_count.custom,com.samsung.health.step_count.update_time,com.samsung.health.step_count.create_time,com.samsung.health.step_count.count,com.samsung.health.step_count.speed,com.samsung.health.step_count.distance,com.samsung.health.step_count.calorie,com.samsung.health.step_count.time_offset,com.samsung.health.step_count.deviceuuid,com.samsung.health.step_count.pkg_name,com.samsung.health.step_count.end_time,com.samsung.health.step_count.datauuid
+
+==> com.samsung.shealth.tracker.pedometer_step_count.202111291535.csv <==
+com.samsung.shealth.tracker.pedometer_step_count,6196009,2
+duration,version_code,run_step,walk_step,com.samsung.health.step_count.start_time,com.samsung.health.step_count.sample_position_type,com.samsung.health.step_count.custom,com.samsung.health.step_count.update_time,com.samsung.health.step_count.create_time,com.samsung.health.step_count.count,com.samsung.health.step_count.speed,com.samsung.health.step_count.distance,com.samsung.health.step_count.calorie,com.samsung.health.step_count.time_offset,com.samsung.health.step_count.deviceuuid,com.samsung.health.step_count.pkg_name,com.samsung.health.step_count.end_time,com.samsung.health.step_count.datauuid
